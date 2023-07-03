@@ -1,0 +1,1766 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.29)  3 JUL 2023 00:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Bachelorarbeit.tex
+(Bachelorarbeit.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-16>
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrreprt
+.cls
+Document Class: scrreprt 2023/04/24 v3.40 KOMA-Script document class (report)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase
+.sty
+Package: scrkbase 2023/04/24 v3.40 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.
+sty
+Package: scrbase 2023/04/24 v3.40 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile
+.sty
+Package: scrlfile 2023/04/24 v3.40 KOMA-Script package (file load hooks)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile
+-hook.sty
+Package: scrlfile-hook 2023/04/24 v3.40 KOMA-Script package (using LaTeX hooks)
+
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.
+sty
+Package: scrlogo 2023/04/24 v3.40 KOMA-Script package (logo)
+)))
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic
+.sty
+Package: tocbasic 2023/04/24 v3.40 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip48
+\scr@dte@tocline@numbox=\box51
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 135.
+Package scrreprt Info: You've used standard option `12pt'.
+(scrreprt)             This is correct!
+(scrreprt)             Internally I'm using `fontsize=12pt'.
+(scrreprt)             If you'd like to set the option with \KOMAoptions,
+(scrreprt)             you'd have to use `fontsize=12pt' there
+(scrreprt)             instead of `12pt', too.
+Class scrreprt Info: You've used standard option `oneside'.
+(scrreprt)           This is correct!
+(scrreprt)           Internally I'm using `twoside=false'.
+(scrreprt)           If you'd like to set the option with \KOMAoptions,
+(scrreprt)           you'd have to use `twoside=false' there
+(scrreprt)           instead of `oneside', too.
+Class scrreprt Info: You've used standard option `final'.
+(scrreprt)           This is correct!
+(scrreprt)           Internally I'm using `draft=false'.
+(scrreprt)           If you'd like to set the option with \KOMAoptions,
+(scrreprt)           you'd have to use `draft=false' there
+(scrreprt)           instead of `final', too.
+Class scrreprt Info: File `scrsize12pt.clo' used to setup font sizes on input l
+ine 2668.
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrsize1
+2pt.clo
+File: scrsize12pt.clo 2023/04/24 v3.40 KOMA-Script font size class option (12pt
+)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea
+.sty
+Package: typearea 2023/04/24 v3.40 KOMA-Script package (type area)
+\ta@bcor=\skip49
+\ta@div=\count185
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+Package typearea Info: You've used standard option `oneside'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `twoside=false'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `twoside=false' there
+(typearea)             instead of `oneside', too.
+
+
+Package typearea Warning: You've used deprecated option `DIV10'.
+(typearea)                Usage of this option indicates an old document
+(typearea)                and changes compatibility level using
+(typearea)                `DIV=10,version=first,
+(typearea)                enabledeprecatedfontcommands' that may result
+(typearea)                in further warnings.
+(typearea)                If you don't want this, you should simply
+(typearea)                replace option `DIV10' by `DIV=10'.
+
+Package typearea Info: Switching compatibility level to `first'.
+\ta@hblk=\skip50
+\ta@vblk=\skip51
+\ta@temp=\skip52
+\footheight=\skip53
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = 0%
+(typearea)              \evensidemargin = 17.3562pt
+(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 592.0pt
+(typearea)              \topmargin      = -27.6403pt
+(typearea)              \headheight     = 18.125pt
+(typearea)              \headsep        = 21.75pt
+(typearea)              \topskip        = 12.0pt
+(typearea)              \footskip       = 50.75pt
+(typearea)              \baselineskip   = 14.5pt
+(typearea)              on input line 1798.
+)
+\c@part=\count186
+\c@chapter=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\scr@dte@chapter@maxnumwidth=\skip54
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\chapter on input line 5961.
+\scr@dte@section@maxnumwidth=\skip55
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\section on input line 5972.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\section on input line 5972.
+\scr@dte@part@maxnumwidth=\skip56
+Class scrreprt Info: using compatibility default `afterindent=true'
+(scrreprt)           for `\part on input line 5981.
+\scr@dte@subsection@maxnumwidth=\skip57
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subsection on input line 5991.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subsection on input line 5991.
+\scr@dte@subsubsection@maxnumwidth=\skip58
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subsubsection on input line 6001.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subsubsection on input line 6001.
+\scr@dte@paragraph@maxnumwidth=\skip59
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\paragraph on input line 6012.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\paragraph on input line 6012.
+\scr@dte@subparagraph@maxnumwidth=\skip60
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subparagraph on input line 6022.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subparagraph on input line 6022.
+\abovecaptionskip=\skip61
+\belowcaptionskip=\skip62
+\c@pti@nb@sid@b@x=\box52
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 7199.
+\scr@dte@figure@maxnumwidth=\skip63
+\c@figure=\count193
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 7216.
+\scr@dte@table@maxnumwidth=\skip64
+\c@table=\count194
+Class scrreprt Info: Redefining `\numberline' on input line 7387.
+\bibindent=\dimen140
+) (C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+) (C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(Meta.tex) (Packages.tex
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer
+-scrpage.sty
+Package: scrlayer-scrpage 2023/04/24 v3.40 KOMA-Script package (end user interf
+ace for scrlayer)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer
+.sty
+Package: scrlayer 2023/04/24 v3.40 KOMA-Script package (defining layers and pag
+e styles)
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 217
+6.
+)
+Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
+(scrlayer-scrpage)             alias to `pageheadfoot' on input line 1097.
+)
+1: section
+1: chapter
+1: chapter
+1: section
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/05/11 v3.89 The Babel package
+\babel@savecnt=\count195
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def
+)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count196
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman
+.ldf
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
+phy)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman
+b.ldf
+Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 122.
+)))
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/de\ba
+bel-ngerman.tex
+Package babel Info: Importing font and identification data for ngerman
+(babel)             from babel-de.ini. Reported on input line 11.
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+) (C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/ulem\ulem.sty
+\UL@box=\box53
+\UL@hyphenbox=\box54
+\UL@skip=\skip65
+\UL@hook=\toks20
+\UL@height=\dimen142
+\UL@pe=\count197
+\UL@pixel=\dimen143
+\ULC@box=\box55
+Package: ulem 2019/11/18
+\ULdepth=\dimen144
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
+y
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
+y
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
+s.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 107.
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\dvips.d
+ef
+File: dvips.def 2022/09/22 v3.1e Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip66
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen147
+)) (C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.st
+y
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+) (C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count198
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count199
+\leftroot@=\count266
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count267
+\DOTSCASE@=\count268
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box56
+\strutbox@=\box57
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count269
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count270
+\dotsspace@=\muskip16
+\c@parentequation=\count271
+\dspbrk@lvl=\count272
+\tag@help=\toks22
+\row@=\count273
+\column@=\count274
+\maxfields@=\count275
+\andhelp@=\toks23
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks24
+\multlinegap=\skip67
+\multlinetaggap=\skip68
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.st
+y
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/eurosym\eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box58
+) (C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.st
+y
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
+y
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count276
+\Gm@cntv=\count277
+\c@Gm@tempcnt=\count278
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
+\Gm@dimlist=\toks26
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cf
+g))
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen164
+\ar@mcellbox=\box59
+\extrarowheight=\dimen165
+\NC@list=\toks27
+\extratabsurround=\skip69
+\backup@length=\skip70
+\ar@cellbox=\box60
+)
+\TX@col@width=\dimen166
+\TX@old@table=\dimen167
+\TX@old@col=\dimen168
+\TX@target=\dimen169
+\TX@delta=\dimen170
+\TX@cols=\count279
+\TX@ftn=\toks28
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.c
+fg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.
+def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.l
+tx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/qrcode\qrcode.sty
+Package: qrcode 2015/01/08 v1.51 QR code generation
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.te
+x
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.t
+ex
+\XKV@toks=\toks29
+\XKV@tempa@toks=\toks30
+)
+\XKV@depth=\count280
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\c@qr@i=\count281
+\c@qr@j=\count282
+\qr@a=\count283
+\qr@b=\count284
+\qr@c=\count285
+\qr@for@depth=\count286
+\qr@for@maxdepth=\count287
+\qr@for@start=\count288
+\qr@for@end=\count289
+\qr@for@step=\count290
+\qr@newforcount=\count291
+\qr@newforcount=\count292
+\qr@desiredheight=\skip71
+\qr@modulesize=\skip72
+\qr@minipagewidth=\skip73
+\c@maski=\count293
+\c@maskj=\count294
+\c@totalones=\count295
+\c@penaltyi=\count296
+\c@penaltyii=\count297
+\c@penaltyiii=\count298
+\c@penaltyiv=\count299
+\c@qr@hexchars=\count300
+\qr@newforcount=\count301
+\c@qr@divisionsremaining=\count302
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/nomencl\nomencl.sty
+Package: nomencl 2021/11/10 v5.6 Nomenclature package
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+Package tocbasic Info: setting babel extension for `nlo' on input line 187.
+Package tocbasic Info: setting babel extension for `nls' on input line 188.
+\nomlabelwidth=\dimen171
+\nom@tempdim=\dimen172
+\nomitemsep=\skip74
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/floatflt\floatflt.st
+y
+Package: floatflt 1997/07/16 v. 1.31
+\c@OptionTest=\count303
+\figbox=\box61
+\tabbox=\box62
+\pagebox=\box63
+\ffigcount=\count304
+\ftabcount=\count305
+\fftest=\count306
+\hangcount=\count307
+\nosuccesstryfig=\count308
+\nosuccesstrytab=\count309
+\figgutter=\dimen173
+\tabgutter=\dimen174
+\htdone=\dimen175
+\pageht=\dimen176
+\startpageht=\dimen177
+\tabbredd=\dimen178
+\floatfltwidth=\dimen179
+\fltitemwidth=\dimen180
+\outputpretest=\toks31
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.
+sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip75
+\subfigcapskip=\skip76
+\subfigcaptopadj=\dimen181
+\subfigbottomskip=\skip77
+\subfigcapmargin=\dimen182
+\subfiglabelskip=\skip78
+\c@subfigure=\count310
+\c@lofdepth=\count311
+\c@subtable=\count312
+\c@lotdepth=\count313
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.
+cfg)
+\subfig@top=\skip79
+\subfig@bottom=\skip80
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.st
+y
+\lst@mode=\count314
+\lst@gtempboxa=\box64
+\lst@token=\toks32
+\lst@length=\count315
+\lst@currlwidth=\dimen183
+\lst@column=\count316
+\lst@pos=\count317
+\lst@lostspace=\dimen184
+\lst@width=\dimen185
+\lst@newlines=\count318
+\lst@lineno=\count319
+\lst@maxwidth=\dimen186
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count320
+\lst@skipnumbers=\count321
+\lst@framebox=\box65
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cf
+g
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip81
+\bibsep=\skip82
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count322
+
+Local config file natbib.cfg used
+(natbib.cfg))
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.st
+y
+Package: hyperref 2023-05-16 v7.00y Hypertext links for LaTeX
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.st
+y
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexc
+mds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarer
+r.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.
+sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdef
+inekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescap
+e.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxma
+cro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-05-16 v2.51 Cross-referencing by name of section
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.st
+y
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\get
+titlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.
+sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count323
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.st
+y
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count324
+)
+\@linkdim=\dimen187
+\Hy@linkcounter=\count325
+\Hy@pagecounter=\count326
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-05-16 v7.00y Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.st
+y
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count327
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-05-16 v7.00y Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `final' set `true' on input line 4050.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4050.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4050.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4050.
+Package hyperref Info: Option `plainpages' set `false' on input line 4050.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4050.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 4050.
+Package hyperref Info: Option `linktocpage' set `true' on input line 4050.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing ON on input line 4185.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4434.
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\backref.sty
+Package: backref 2023/04/20 v1.42 Bibliographical back referencing
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerun
+filecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.s
+ty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniq
+uecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintc
+alc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+))
+\c@Hy@tempcnt=\count328
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen188
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+)
+\Fld@menulength=\count329
+\Field@Width=\dimen189
+\Fld@charsize=\dimen190
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing ON on input line 6064.
+Package hyperref Info: Link coloring ON on input line 6069.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.st
+y
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count330
+\c@Item=\count331
+\c@Hfootnote=\count332
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-05-16 v7.00y Hyperref driver for pdfTeX
+\Fld@listcount=\count333
+\c@bookmark@seq@number=\count334
+\Hy@SectionHShift=\skip83
+)
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 230.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 230.
+
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.st
+y
+Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
+ (C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count335
+\calc@Bcount=\count336
+\calc@Adimen=\dimen191
+\calc@Bdimen=\dimen192
+\calc@Askip=\skip84
+\calc@Bskip=\skip85
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count337
+\calc@Cskip=\skip86
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen193
+\ESO@tempdimb=\dimen194
+)
+\AM@pagewidth=\dimen195
+\AM@pageheight=\dimen196
+\AM@fboxrule=\dimen197
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.de
+f
+File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count338
+\AM@pagebox=\box66
+\AM@global@opts=\toks33
+\AM@pagecnt=\count339
+\AM@toc@title=\toks34
+\AM@lof@heading=\toks35
+\c@AM@survey=\count340
+\AM@templatesizebox=\box67
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcntr.st
+y
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.st
+y
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip87
+\multirow@cntb=\count341
+\multirow@dima=\skip88
+\bigstrutjot=\dimen198
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip89
+\LTright=\skip90
+\LTpre=\skip91
+\LTpost=\skip92
+\LTchunksize=\count342
+\LTcapwidth=\dimen199
+\LT@head=\box68
+\LT@firsthead=\box69
+\LT@foot=\box70
+\LT@lastfoot=\box71
+\LT@gbox=\box72
+\LT@cols=\count343
+\LT@rows=\count344
+\c@LT@tables=\count345
+\c@LT@chunks=\count346
+\LT@p@ftn=\toks36
+)
+Class scrreprt Info: longtable captions redefined on input line 247.
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\ltxtable.st
+y
+Package: ltxtable 2021/06/13 v0.4 longtable/tabularx merge (DPC)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/filecontents\filecon
+tents.sty
+Package: filecontents 2023/04/02 v1.5a Create an external file from within a La
+TeX document
+
+
+Package filecontents Warning: This package is obsolete. Disabling it and
+(filecontents)                passing control to the filecontents environment
+(filecontents)                defined by the LaTeX kernel.
+
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.st
+y
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip93
+\RaggedLeftLeftskip=\skip94
+\RaggedRightLeftskip=\skip95
+\CenteringRightskip=\skip96
+\RaggedLeftRightskip=\skip97
+\RaggedRightRightskip=\skip98
+\CenteringParfillskip=\skip99
+\RaggedLeftParfillskip=\skip100
+\RaggedRightParfillskip=\skip101
+\JustifyingParfillskip=\skip102
+\CenteringParindent=\skip103
+\RaggedLeftParindent=\skip104
+\RaggedRightParindent=\skip105
+\JustifyingParindent=\skip106
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.st
+y
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count347
+\rotFPtop=\skip107
+\rotFPbot=\skip108
+\rot@float@box=\box73
+\rot@mess@toks=\toks37
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/paralist\paralist.st
+y
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip109
+\plpartopsep=\skip110
+\plitemsep=\skip111
+\plparsep=\skip112
+\pl@lab=\toks38
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.st
+y
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip113
+\enit@outerparindent=\dimen256
+\enit@toks=\toks39
+\enit@inbox=\box74
+\enit@count@id=\count348
+\enitdp@description=\count349
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/forloop\forloop.sty
+Package: forloop 2023/05/03 v3.0 For Loops for LaTeX
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todonotes.
+sty
+Package: todonotes 2023/01/31 v1.1.6 Todonotes source and documentation.
+Package: todonotes 2023/01/31
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\ti
+kz.sty
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.s
+ty
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs
+.sty
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfu
+til-common.tex
+\pgfutil@everybye=\toks40
+\pgfutil@tempdima=\dimen257
+\pgfutil@tempdimb=\dimen258
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfu
+til-latex.def
+\pgfutil@abb=\box75
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfr
+cs.code.tex
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.t
+ex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfco
+re.sty
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfs
+ys.sty
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfk
+eys.code.tex
+\pgfkeys@pathtoks=\toks41
+\pgfkeys@temptoks=\toks42
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfk
+eyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks43
+))
+\pgf@x=\dimen259
+\pgf@y=\dimen260
+\pgf@xa=\dimen261
+\pgf@ya=\dimen262
+\pgf@xb=\dimen263
+\pgf@yb=\dimen264
+\pgf@xc=\dimen265
+\pgf@yc=\dimen266
+\pgf@xd=\dimen267
+\pgf@yd=\dimen268
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count350
+\c@pgf@countb=\count351
+\c@pgf@countc=\count352
+\c@pgf@countd=\count353
+\t@pgf@toka=\toks44
+\t@pgf@tokb=\toks45
+\t@pgf@tokc=\toks46
+\pgf@sys@id@count=\count354
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+f.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count355
+\pgfsyssoftpath@bigbuffer@items=\count356
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pg
+fsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+core.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.c
+ode.tex
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathut
+il.code.tex)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpa
+rser.code.tex
+\pgfmath@dimen=\dimen269
+\pgfmath@count=\count357
+\pgfmath@box=\box76
+\pgfmath@toks=\toks47
+\pgfmath@stack@operand=\toks48
+\pgfmath@stack@operation=\toks49
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.code.tex)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.basic.code.tex)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.trigonometric.code.tex)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.random.code.tex)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.comparison.code.tex)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.base.code.tex)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.round.code.tex)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.misc.code.tex)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfu
+nctions.integerarithmetics.code.tex)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathca
+lc.code.tex)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfl
+oat.code.tex
+\c@pgfmathroundto@lastzeros=\count358
+))
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.co
+de.tex)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen270
+\pgf@picmaxx=\dimen271
+\pgf@picminy=\dimen272
+\pgf@picmaxy=\dimen273
+\pgf@pathminx=\dimen274
+\pgf@pathmaxx=\dimen275
+\pgf@pathminy=\dimen276
+\pgf@pathmaxy=\dimen277
+\pgf@xx=\dimen278
+\pgf@xy=\dimen279
+\pgf@yx=\dimen280
+\pgf@yy=\dimen281
+\pgf@zx=\dimen282
+\pgf@zy=\dimen283
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen284
+\pgf@path@lasty=\dimen285
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen286
+\pgf@shorten@start@additional=\dimen287
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box77
+\pgf@hbox=\box78
+\pgf@layerbox@main=\box79
+\pgf@picture@serial@count=\count359
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+coregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen288
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+coretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen289
+\pgf@pt@y=\dimen290
+\pgf@pt@temp=\dimen291
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+coreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen292
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+coreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen293
+\pgf@sys@shading@range@num=\count360
+\pgf@shadingcount=\count361
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+coreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+coreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box80
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+coretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgf
+corerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmod
+uleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box81
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmod
+uleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pg
+fcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen294
+\pgf@nodesepend=\dimen295
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pg
+fcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor
+.sty
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkey
+s.sty
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfk
+eys.code.tex))
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.c
+ode.tex))
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgff
+or.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen296
+\pgffor@skip=\dimen297
+\pgffor@stack=\toks50
+\pgffor@toks=\toks51
+))
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
+tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfl
+ibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count362
+\pgfplotmarksize=\dimen298
+)
+\tikz@lastx=\dimen299
+\tikz@lasty=\dimen300
+\tikz@lastxsaved=\dimen301
+\tikz@lastysaved=\dimen302
+\tikz@lastmovetox=\dimen303
+\tikz@lastmovetoy=\dimen304
+\tikzleveldistance=\dimen305
+\tikzsiblingdistance=\dimen306
+\tikz@figbox=\box82
+\tikz@figbox@bg=\box83
+\tikz@tempbox=\box84
+\tikz@tempbox@bg=\box85
+\tikztreelevel=\count363
+\tikznumberofchildren=\count364
+\tikznumberofcurrentchild=\count365
+\tikz@fig@count=\count366
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmod
+ulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count367
+\pgfmatrixcurrentcolumn=\count368
+\pgf@matrix@numberofcolumns=\count369
+)
+\tikz@expandcount=\count370
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
+tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/
+tikz/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+\c@@todonotes@numberoftodonotes=\count371
+))
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\@indexfile=\write4
+\openout4 = `Bachelorarbeit.idx'.
+
+
+Writing index file Bachelorarbeit.idx
+\@nomenclaturefile=\write5
+\openout5 = `Bachelorarbeit.nlo'.
+
+Package nomencl Info: Writing nomenclature file Bachelorarbeit.nlo on input lin
+e 57.
+(Seitenstil.tex
+
+Package scrlayer-scrpage Warning: Command `\setheadwidth' is deprecated.
+(scrlayer-scrpage)                I'm using \KOMAoptions {headwidth=textwithmar
+ginpar:0pt} instead,
+(scrlayer-scrpage)                and so should you do on input line 33.
+
+
+Package scrlayer-scrpage Warning: Command deprecated!
+(scrlayer-scrpage)                Usage of `\setheadtopline', `\setheadsepline'
+,
+(scrlayer-scrpage)                `\setfootsepline', and `\setfootbotline'
+(scrlayer-scrpage)                became deprecated with scrlayer-scrpage.
+(scrlayer-scrpage)                You should use KOMA-Script options
+(scrlayer-scrpage)                `headsepline', `headtopline', `footsepline',
+(scrlayer-scrpage)                or `footbotline' with values
+(scrlayer-scrpage)                `<line thickness>:<line length>' to setup
+(scrlayer-scrpage)                the line length and thickness, and
+(scrlayer-scrpage)                `\setkomafont' or `\addtokomafont' to
+(scrlayer-scrpage)                setup the colour on input line 34.
+
+)
+
+LaTeX Warning: \include should only be used after \begin{document} on input lin
+e 65.
+
+(Silbentrennung.tex)
+
+LaTeX Warning: \include should only be used after \begin{document} on input lin
+e 69.
+
+(Befehle.tex
+
+Package array Warning: Column w is already defined on input line 70.
+
+)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 76
+.
+ (C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
+pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count372
+\l__pdf_internal_box=\box86
+) (Bachelorarbeit.aux (Deckblatt.aux) (Inhalt/Einleitung.aux)
+(Erklaerung.aux))
+\openout1 = `Bachelorarbeit.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 469.47049pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 686.7347pt, 101.40665pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.47049pt
+* \textheight=686.7347pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-55.23949pt
+* \headheight=59.75078pt
+* \headsep=21.75pt
+* \topskip=12.59605pt
+* \footskip=50.75pt
+* \marginparwidth=59.7508pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
+.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count373
+\scratchdimen=\dimen307
+\scratchbox=\box87
+\nofMPsegments=\count374
+\nofMParguments=\count375
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count376
+\MPscratchDim=\dimen308
+\MPnumerator=\count377
+\makeMPintoPDFobject=\count378
+\everyMPtoPDFconversion=\toks53
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
+f-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sy
+s.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count379
+Package backref Info: ** backref set up for natbib ** on input line 76.
+Package hyperref Info: Link coloring ON on input line 76.
+ (Bachelorarbeit.out) (Bachelorarbeit.out)
+\@outlinefile=\write6
+\openout6 = `Bachelorarbeit.out'.
+
+Class scrreprt Info: loading recommended package `bookmark'.
+(scrreprt)           Using `bookmark' together with `hyperref' is recommended,
+(scrreprt)           because of handling of possible bookmark level gaps.
+(scrreprt)           You can avoid loading `bookmark' with KOMA-Script option
+(scrreprt)           `bookmarkpackage=false' before \begin{document} and
+(scrreprt)           you can avoid this message adding:
+(scrreprt)             \usepackage{bookmark}
+(scrreprt)           before \begin{document} on input line 76.
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.st
+y
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.
+def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count380
+))
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.
+sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-
+nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+\openout2 = `Deckblatt.aux'.
+
+ (Deckblatt.tex
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 7
+.
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
+File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd)
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+Overfull \vbox (54.76776pt too high) detected at line 21
+ []
+
+File: Bilder/Qtec_positive_colour.png Graphic file (type png)
+<use Bilder/Qtec_positive_colour.png>
+Package pdftex.def Info: Bilder/Qtec_positive_colour.png  used on input line 21
+.
+(pdftex.def)             Requested size: 140.84258pt x 65.72511pt.
+
+Overfull \vbox (54.76776pt too high) detected at line 21
+ []
+
+
+Overfull \hbox (4.4989pt too wide) in paragraph at lines 21--21
+[]|[]| 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 21--21
+[][] 
+ []
+
+
+LaTeX Font Warning: Font shape `T1/cmss/b/n' undefined
+(Font)              using `T1/cmss/bx/n' instead on input line 31.
+
+
+
+<QR code requested for "\https://www.q-tec-ag.ch/" in version 0-M.>
+<Calculating QR code for "\https://www.q-tec-ag.ch/" in version 2-M.>
+<Splitting off block 1> <Making error block 1>
+<Interleaving datablocks of length 28\ and 29:  1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
+11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, .>
+<Interleaving errorblocks of length 16:  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11,
+12, 13, 14, 15, 16, .><Interleaving complete.> <Writing data... done.>
+<Applying Mask 0... done. Calculating penalty... penalty is 1210>
+<Applying Mask 1... done. Calculating penalty... penalty is 1094>
+<Applying Mask 2... done. Calculating penalty... penalty is 1134>
+<Applying Mask 3... done. Calculating penalty... penalty is 1129>
+<Applying Mask 4... done. Calculating penalty... penalty is 1126>
+<Applying Mask 5... done. Calculating penalty... penalty is 1132>
+<Applying Mask 6... done. Calculating penalty... penalty is 1104>
+<Applying Mask 7... done. Calculating penalty... penalty is 1188>
+<Selected Mask 1>
+<Encoding and writing format string... done.>
+<Encoding and writing version information... done.>
+<Saving QR code to memory... done.>
+<Writing QR code to aux file... done.>
+<Printing matrix... done.>
+
+
+
+<QR code requested for "\https://www.q-tec-ag.ch/" in version 0-M.>
+
+<Copying the QR code for "\https://www.q-tec-ag.ch/" in version 2-M as previous
+ly calculated.>
+
+
+<QR code requested for "\https://www.q-tec-ag.ch/" in version 0-M.>
+
+<Copying the QR code for "\https://www.q-tec-ag.ch/" in version 2-M as previous
+ly calculated.>
+
+Overfull \hbox (9.77359pt too wide) in alignment at lines 49--49
+[][] 
+ []
+
+
+Overfull \hbox (11.74983pt too wide) in paragraph at lines 49--50
+[][] 
+ []
+
+[1
+Non-PDF special ignored!
+<special> papersize=597.50787pt,845.04684pt
+
+
+
+
+{C:/Users/TanjasNB/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Bilder/
+Qtec_positive_colour.png>])
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
+00.
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
+File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+(Bachelorarbeit.toc
+Overfull \hbox (3.22041pt too wide) detected at line 9
+ [][][]\T1/lmss/bx/n/12 VIII[][]
+ []
+
+)
+\tf@toc=\write7
+\openout7 = `Bachelorarbeit.toc'.
+
+ (Inhalt/Glossar.tex)
+<Bilder/LogoMuster.pdf, id=46, 326.18965pt x 436.35522pt>
+File: Bilder/LogoMuster.pdf Graphic file (type pdf)
+<use Bilder/LogoMuster.pdf>
+Package pdftex.def Info: Bilder/LogoMuster.pdf  used on input line 106.
+(pdftex.def)             Requested size: 19.57053pt x 26.18018pt.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+06.
+
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+
+Package scrlayer-scrpage Warning: \footheight to low.
+(scrlayer-scrpage)                At least 56.6556pt needed,
+(scrlayer-scrpage)                but only 18.125pt found.
+(scrlayer-scrpage)                I'll enlarge \footheight, for further
+(scrlayer-scrpage)                processing, but you should do this yourself,
+(scrlayer-scrpage)                e.g., using
+(scrlayer-scrpage)                  \setlength{\footheight}{56.6556pt}
+(scrlayer-scrpage)                in your preamble.
+(scrlayer-scrpage)                I'll also increase \footskip on input line 10
+6.
+
+[1{C:/Users/TanjasNB/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc
+}
+
+
+
+{C:/Users/TanjasNB/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}
+ <./Bilder/LogoMuster.pdf>]
+No file Bachelorarbeit.nls.
+(Inhalt.tex
+\openout2 = `Inhalt/Einleitung.aux'.
+
+ (Inhalt/Einleitung.tex
+chapter 1.
+
+Class scrreprt Warning: \float@addtolists detected!
+(scrreprt)              Implementation of \float@addtolist became
+(scrreprt)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrreprt)              has been replaced by several more flexible
+(scrreprt)              features of package `tocbasic`.
+(scrreprt)              Since Version 3.12 support for deprecated
+(scrreprt)              \float@addtolist interface has been
+(scrreprt)              restricted to only some of the KOMA-Script
+(scrreprt)              features and been removed from others.
+(scrreprt)              Loading of package `scrhack' may help to
+(scrreprt)              avoid this warning, if you are using a
+(scrreprt)              a package that still implements the
+(scrreprt)              deprecated \float@addtolist interface.
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 11.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 11.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 11.
+
+Overfull \hbox (0.39755pt too wide) in paragraph at lines 33--34
+[]\T1/lmr/m/n/12 Im Ka-pi-tel ^^TMe-tho-den und Her-an-ge-hens-wei-sen^^S wer-
+ []
+
+File: Bilder/LogoMuster.pdf Graphic file (type pdf)
+<use Bilder/LogoMuster.pdf>
+Package pdftex.def Info: Bilder/LogoMuster.pdf  used on input line 34.
+(pdftex.def)             Requested size: 19.57053pt x 26.18018pt.
+[1
+
+
+
+
+]
+Overfull \hbox (2.54921pt too wide) in paragraph at lines 37--38
+[]\T1/lmr/m/n/12 Dieses Ka-pi-tel ent-hält die Do-ku-men-ta-ti-on der tat-
+ []
+
+)
+File: Bilder/LogoMuster.pdf Graphic file (type pdf)
+<use Bilder/LogoMuster.pdf>
+Package pdftex.def Info: Bilder/LogoMuster.pdf  used on input line 8.
+(pdftex.def)             Requested size: 19.57053pt x 26.18018pt.
+ [2]) (Bachelorarbeit.bbl (Bachelorarbeit.brf)
+\tf@brf=\write8
+\openout8 = `Bachelorarbeit.brf'.
+
+
+chapter without number
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
+1.
+(C:\Users\TanjasNB\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+File: Bilder/LogoMuster.pdf Graphic file (type pdf)
+<use Bilder/LogoMuster.pdf>
+Package pdftex.def Info: Bilder/LogoMuster.pdf  used on input line 134.
+(pdftex.def)             Requested size: 19.57053pt x 26.18018pt.
+
+[7
+
+
+
+
+] (Bachelorarbeit.lof)
+\tf@lof=\write9
+\openout9 = `Bachelorarbeit.lof'.
+
+File: Bilder/LogoMuster.pdf Graphic file (type pdf)
+<use Bilder/LogoMuster.pdf>
+Package pdftex.def Info: Bilder/LogoMuster.pdf  used on input line 135.
+(pdftex.def)             Requested size: 19.57053pt x 26.18018pt.
+ [8
+
+] (Bachelorarbeit.lot)
+\tf@lot=\write10
+\openout10 = `Bachelorarbeit.lot'.
+
+
+
+Class scrreprt Warning: \float@listhead detected!
+(scrreprt)              Implementation of \float@listhead became
+(scrreprt)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrreprt)              has been replaced by several more flexible
+(scrreprt)              features of package `tocbasic`.
+(scrreprt)              Maybe implementation of \float@listhead will
+(scrreprt)              be removed from KOMA-Script soon.
+(scrreprt)              Loading of package `scrhack' may help to
+(scrreprt)              avoid this warning, if you are using a
+(scrreprt)              a package that still implements the
+(scrreprt)              deprecated \float@listhead interface on input line 137.
+
+
+File: Bilder/LogoMuster.pdf Graphic file (type pdf)
+<use Bilder/LogoMuster.pdf>
+Package pdftex.def Info: Bilder/LogoMuster.pdf  used on input line 137.
+(pdftex.def)             Requested size: 19.57053pt x 26.18018pt.
+[9
+
+]
+chapter without number
+(Bachelorarbeit.lol)
+\tf@lol=\write11
+\openout11 = `Bachelorarbeit.lol'.
+
+File: Bilder/LogoMuster.pdf Graphic file (type pdf)
+<use Bilder/LogoMuster.pdf>
+Package pdftex.def Info: Bilder/LogoMuster.pdf  used on input line 147.
+(pdftex.def)             Requested size: 19.57053pt x 26.18018pt.
+ [10
+
+]
+\openout2 = `Erklaerung.aux'.
+
+ (Erklaerung.tex
+chapter without number
+
+Overfull \hbox (173.50533pt too wide) in paragraph at lines 5--6
+\T1/lmr/m/n/12 Ich, Tat-sia-na Wieg-ner, Matrikel-Nr. 1234567, ver-si-che-re hi
+er-mit, dass ich mei-ne Nr.: [][][][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+)
+File: Bilder/LogoMuster.pdf Graphic file (type pdf)
+<use Bilder/LogoMuster.pdf>
+Package pdftex.def Info: Bilder/LogoMuster.pdf  used on input line 147.
+(pdftex.def)             Requested size: 19.57053pt x 26.18018pt.
+ [11
+
+
+]
+
+Class scrreprt Warning: You are using `\begin{appendix}...\end{appendix}'.
+(scrreprt)              You should note, that `\appendix' is a mostly globally
+(scrreprt)              working command not an enviroment with only local
+(scrreprt)              effects. Therefore `\end{appendix}' will neither
+(scrreprt)              switch back to normal section numbering nor finish
+(scrreprt)              every other effect of `\begin{appendix}'.
+(scrreprt)              Nevertheless, some effects may end with
+(scrreprt)              `\end{appendix}' and the document may become
+(scrreprt)              inconsistent.
+(scrreprt)              Because of this, you should remove `\end{appendix}'
+(scrreprt)              and replace `\begin{appendix}' by command
+(scrreprt)              `\appendix' on input line 154.
+
+chapter A.
+(Anhang.tex)
+File: Bilder/LogoMuster.pdf Graphic file (type pdf)
+<use Bilder/LogoMuster.pdf>
+Package pdftex.def Info: Bilder/LogoMuster.pdf  used on input line 164.
+(pdftex.def)             Requested size: 19.57053pt x 26.18018pt.
+ [1
+
+
+
+
+] (Bachelorarbeit.aux (Deckblatt.aux) (Inhalt/Einleitung.aux)
+(Erklaerung.aux))
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-16>
+ ***********
+Package rerunfilecheck Info: File `Bachelorarbeit.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `Bachelorarbeit.brf' has not changed.
+(rerunfilecheck)             Checksum: 59ECD381D6FDFB1BCB63DFC656F0BAB6;100.
+ ) 
+Here is how much of TeX's memory you used:
+ 35111 strings out of 476036
+ 679386 string characters out of 5778408
+ 1901763 words of memory out of 5000000
+ 55141 multiletter control sequences out of 15000+600000
+ 580039 words of font info for 88 fonts, out of 8000000 for 9000
+ 1149 hyphenation exceptions out of 8191
+ 108i,24n,234p,10911b,1661s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\TanjasNB\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
+css1200.pk> <C:\Users\TanjasNB\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecss1440.pk> <C:\Users\TanjasNB\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecsx2074.pk> <C:\Users\TanjasNB\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecsx1728.pk> <C:\Users\TanjasNB\AppData\Local\MiKTeX\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecsx1200.pk><C:/Users/TanjasNB/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/TanjasNB/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/TanjasNB/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/TanjasNB/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/TanjasNB/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/TanjasNB/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/TanjasNB/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/Tanjas
+NB/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/T
+anjasNB/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on Bachelorarbeit.pdf (10 pages, 704693 bytes).
+PDF statistics:
+ 334 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 135 words of extra memory for PDF output out of 10000 (max. 10000000)
+
