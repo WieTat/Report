@@ -3,50 +3,69 @@
 
 \thispagestyle{plain}
 \begin{titlepage}
-
-\changefont{cmss}{bx}{n}
-
-
-
+	\newgeometry{paper=a4paper,left=25mm,right=20mm,top=0mm, bottom=0mm}
+	
+%	\changefont{cmss}{bx}{n}
 
 
 \begin{flushleft}
+	 
+			%\includegraphics[width=0.4\textwidth]{Bilder/LogoQtecAG}
+		
+
 	
-	\begin{tabularx}{\textwidth}{p{7cm} p{7cm}}
-	\hspace {-25pt}
-	\includegraphics[width=0.3\textwidth]{Bilder/Qtec_positive_colour} & Kunde \\
-	\Large{\textbf{Brunnenstrasse 6a}} &\multirow{ 2}{*}{ \TextField[multiline=true,height=6\baselineskip, width=7cm, height=3cm, bordercolor={CorpColor}]{}}\\
-	\Large{\textbf{8604 Volketswil}}& 
-	\\ %\\[6ex]
-\end{tabularx}
+	\begin{tabularx}{\textwidth}{p{8.5cm}X}
+		\multirow{2}{*}{\includegraphics[width=0.4\textwidth]{Bilder/LogoQtecAG}} &\small{\textcolor{CorpColor}{Brunnenstrasse 6a}} \textcolor{CorpColor}{\textbullet} \small{\textcolor{CorpColor}{CH-8604 Volketswil}} \tabularnewline
+		 
+		 & \small{\href{mailto:info@q-tec-ag.ch}{\color{CorpColor}info@g-tec-ag.ch}} \textcolor{CorpColor}{\textbullet} \small{\href{tel:0041433556010}{\color{CorpColor}+41 43 355 60 10}} \tabularnewline
+	\end{tabularx}
 
-\vspace{5cm} 
+\vspace {4cm}
+\changefont{cmss}{m}{n}
 
+\def\LayoutTextField#1#2{% label, field
+	\def\Hy@temp{#1}%
+	\ifx\Hy@temp\@empty
+	#2%
+	\else
+	#1 \raisebox{\dimeval{-\height+\ht\strutbox}}{#2}%
+	\fi
+}
+\makeatother
+
+	 \TextField[multiline=true,height=6\baselineskip, width=7cm, height=3cm, bordercolor={CorpColor}]{Kunde:}
+
+\vspace{1.5cm}
 
 
 \LARGE{\textbf{\titel}}\\[1.5ex]
 \Large{\textbf{\art}}\\[1.5ex]
-\changefont{cmss}{m}{n}
-\large{\fachgebiet}\\%[12ex]
-\Large{\textbf{Prüfdatum}}\qquad {\TextField[height=6\baselineskip, height = 14pt, width= 5cm, bordercolor={CorpColor}]{}}\\[12ex]
 
-
-%\includegraphics[width=0.7\textwidth]{Logo.pdf}\\[12ex]
+\large{\fachgebiet}\\[1.5ex]
+\vspace {2cm}
 
 \normalsize{}
 \begin{tabular}{ll}
-vorgelegt von:  & \quad \autor\\[1.2ex]
-%Matrikelnummer: & \quad \matrikelnr\\[1ex]
+\Large{\textbf{Prüfdatum:}}&\hspace {7pt} \TextField[width=7cm, height=14pt, bordercolor={CorpColor}]{}\\
+	\tabularnewline
+\large{Prüfumpfang:}& \quad \TextField[width=7cm, height=14pt, bordercolor={CorpColor}]{}\\
+	\tabularnewline
+vorgelegt von:  & \quad \autor\\[2ex]
+%Prüfumpfang: & \begin{itemize}
+						%	\item PR1
+						%	\item Pr2
+					%\end{itemize}\\
 %Erstgutachter:  & \quad \erstgutachter\\[1ex]
 %Zweitgutachter: & \quad \zweitgutachter\\[1ex]
 %eingereicht in: & \quad \ort, am 12.\,August\,2011
-\end{tabular}\\[20ex]
+\end{tabular}
+\vspace{7cm}
 
-\end{flushleft}
-
-\begin{tabularx}{\textwidth}{p{13cm} p{3cm}}	
-	\href{mailto:info@q-tec-ag.ch}{\color{CorpColor}info@g-tec-ag.ch}, \href{tel:0041433556010}{\color{CorpColor}+41 43 355 60 10}& \qrcode{\\https://www.q-tec-ag.ch/}\\
+\begin{tabularx}{\textwidth}{p{14cm} p{8cm}}	
+	\small{\url{https://www.q-tec-ag.ch/}}& 
+	\leavevmode\color{red}{\qrcode{\\https://www.q-tec-ag.ch/}}\\
 \end{tabularx}
+\end{flushleft}
 
 % Die folgenden Kommentare entfernen um einen Sperrvermerk auf der 2. Seite zu erzeugen
 %\singlespacing
