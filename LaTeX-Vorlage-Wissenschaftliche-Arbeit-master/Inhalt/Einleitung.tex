@@ -1,28 +1,79 @@
 % !TEX encoding = UTF-8 Unicode
 % !TEX root =  ../Bachelorarbeit.tex
 
-\chapter{Einleitung}
-\label{cha:Einleitung}
+
+\chapter{Auswertung} \label{cha:Auswertung}
+
+\kunde\\
+\objekt\\
+\abteilung\\
+\ansprechtsperson\\
+%\hline
+Raum : \ChoiceMenu[height=10pt,width=5cm, bordercolor={CorpColor},print,combo,default=Laminar Feld 1]{}{Laminar Feld 1, Laminar Feld 2, Arbeitsbereich 3, Arbeitsbereich 3, Labor (RNr. 14)} \qquad Kalsse: \ChoiceMenu[height=12pt,width=5cm, bordercolor={CorpColor},print,combo,default= A]{}{A,B,C} \\ [1.5ex]
+
+\begin{tabularx}{\textwidth}{|l|c|c|X|c|c|X|c|c|X|c|}
+	\hline
+	%\multicolumn{2}{|l|}{Q-TEC AG}&\multicolumn{2}{|l|}{Kunde}\\
+	\hline
+	Prüfung & 
+	\rotatebox[origin=c]{90}{Befund} & \rotatebox[origin=c]{90}{Warngrenze} &
+	Messpunkten mit Warngenze Verletzung &
+	\rotatebox[origin=c]{90}{Eingehalten} & \rotatebox[origin=c]{90}{Aktionsgrenze} &
+	Messpunkten mit Aktionsgenze Verletzung &
+	\rotatebox[origin=c]{90}{Eingehalten} & \rotatebox[origin=c]{90}{Grenzwert}	&
+	Messpunkten mit Grenzwert Verletzung & \rotatebox[origin=c]{90}{ Eingehalten}\\
+	\hline
+		Luftprobe & 
+	< 1  & $\geq$ 1 & 0 von 2 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch1]{}& > 1  & 0 von 2 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch2]{}&
+	1 & 0 von 2 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch3]{} \\
+	\hline
+		Sedimentationsplatten & 
+	< 1  & $\geq$ 1 & 0 von 2 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch1]{}& > 1  & 0 von 2 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch2]{}&
+	1 & 0 von 2 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch3]{} \\
+\hline
+		Kontaktplatten & 
+	< 1  & $\geq$ 1 & 0 von 8 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch1]{}& > 1  & 0 von 8 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch2]{}&
+	1 & 0 von 8 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch3]{} \\
+	\hline
+\end{tabularx}
 
 
-\section{Das Ziel dieser Arbeit}
-\label{sec:ZielDerArbeit}
+\begin{tabularx}{\textwidth}{|X|X|X|X|}
+	\hline
+	\multicolumn{2}{|l|}{Q-TEC AG}&\multicolumn{2}{|l|}{Kunde}\\
+	\hline
+	\multirow{2}{*}{Erstellt und Geprüft:} & &\multirow{2}{*}{ Geprüft und Genehmigt:} & \\
+	%\hline
+	 &\qquad A & &\qquad W\\
+%	\hline
+	
+	%\hline
+%	\multicolumn{6}{|c|}{KBE/m^{3}}\\
+%	\hline
+%	\hline\\
+%	\hline\\
+%	\\
+%	\hline\hline\hline\hline\hline
+\end{tabularx}
 
-Diese Bachelor-Thesis befasst sich mit der Entwicklung einer TYPO3-\FachbegriffSpezialA{Extension}{Erweiterung, Plug-in}{»An extra feature added to a standard programming language or system.« \Zitat[siehe (1)]{webopedia:extension}}{Exten\-sion} zum Anzeigen und Abspielen von Webradio-Streams des Radiosenders XYZ.
-
-Im Zuge des Relaunches des gesamten Webauftritts des Senders war es auch n\"otig, den Webradio-Player neu zu entwickeln und direkt in das nun verwendete TYPO3-System zu integrieren.
 
 
-\section{Die Umgebung, in der die Arbeit entstand}
-\label{sec:EntstehungsUmgebungArbeit}
 
-Die Entwicklung der Software geschah in Kooperation mit der Mantelgesellschaft des Radiosenders: Der Musterfabrik GmbH \& Co. Betriebs KG.
+%\section{Das Ziel dieser Arbeit} \label{sec:ZielDerArbeit}
 
-Als Entwicklungsbasis kamen die neu eingef\"uhrten Frameworks Extbase und Fluid zum Einsatz, welche derzeit noch in Entwicklung sind und deshalb nur in fr\"uhen Versionen vorliegen. Die grundlegenden Technologien, die diesen Frameworks zugrunde liegen, werden in dieser Arbeit wissentlich nicht behandelt, um den Rahmen nicht zu sprengen.
+%Diese Bachelor-Thesis befasst sich mit der Entwicklung einer TYPO3-\FachbegriffSpezialA{Extension}{Erweiterung, Plug-in}{»An extra feature added to a standard programming language or system.« \Zitat[siehe (1)]{webopedia:extension}}{Exten\-sion} zum Anzeigen und Abspielen von Webradio-Streams des Radiosenders XYZ.
+
+I%m Zuge des Relaunches des gesamten Webauftritts des Senders war es auch n\"otig, den Webradio-Player neu zu entwickeln und direkt in das nun verwendete TYPO3-System zu integrieren.
 
 
-\section{Der Aufbau dieser Arbeit}
-\label{sec:AufbauDieserArbeit}
+%\section{Die Umgebung, in der die Arbeit entstand} \label{sec:EntstehungsUmgebungArbeit}
+
+%Die Entwicklung der Software geschah in Kooperation mit der Mantelgesellschaft des Radiosenders: Der Musterfabrik GmbH \& Co. Betriebs KG.
+
+%Als Entwicklungsbasis kamen die neu eingef\"uhrten Frameworks Extbase und Fluid zum Einsatz, welche derzeit noch in Entwicklung sind und deshalb nur in fr\"uhen Versionen vorliegen. Die grundlegenden Technologien, die diesen Frameworks zugrunde liegen, werden in dieser Arbeit wissentlich nicht behandelt, um den Rahmen nicht zu sprengen.
+
+
+%\section{Der Aufbau dieser Arbeit} \label{sec:AufbauDieserArbeit}
 
 \begin{description}
 
@@ -41,8 +92,7 @@ Als Entwicklungsbasis kamen die neu eingef\"uhrten Frameworks Extbase und Fluid 
 \end{description}
 
 
-\section{Wenige Informationen, wenige Quellen \dots}
-\label{sec:Quellenlage}
+%\section{Wenige Informationen, wenige Quellen \dots} \label{sec:Quellenlage}
 
 Grunds\"atzlich war es schwierig geeignete Quellen zu den Themen rund um die Technologien zu finden, da sich -- wie bereits erw\"ahnt -- beide Frameworks noch in der Entwicklung befinden. Aus diesem Grund wurde \"uberwiegend aus Online-Quellen zitiert.
 
