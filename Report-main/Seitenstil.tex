@@ -1,0 +1,72 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX root =  Bachelorarbeit.tex
+
+% Zeilenabstand 1,5 Zeilen ---------------------------------------------------------------------
+\onehalfspacing{}
+
+
+% Seitenränder ------------------------------------------------------------------------------------
+\setlength{\topskip}{\ht\strutbox} % behebt Warnung von geometry
+\geometry{paper=a4paper,left=25mm,right=20mm,top=20mm,footskip=0pt}
+
+
+% Kopf- und Fußzeilen --------------------------------------------------------------------------
+\pagestyle{scrheadings}
+
+% Kopf- und Fußzeile auch auf Kapitelanfangsseiten
+\renewcommand*{\chapterpagestyle}{scrheadings} 
+
+% Schriftform der Kopfzeile
+\renewcommand{\headfont}{\normalfont}
+
+
+% Kopfzeile für einseitiges Dokument:
+%\lohead{
+%	\includegraphics[width=0.4\textwidth]{Bilder/Qtec_colour}
+	
+%}
+%\chead{ \textit{\headmark}}
+%\rohead{\textit{\headmark}}
+\setlength{\headheight}{21mm} % Höhe der Kopfzeile
+% Kopfzeile über den Text hinaus verbreitern
+%\setheadwidth[0pt]{textwithmarginpar} 
+%\setheadsepline[text]{0.4pt} % Trennlinie unter Kopfzeile
+%\renewcommand{\headrulewidth}{0.5pt}
+%\renewcommand{\headrule}{\hbox to\headwidth{\color{red}\leaders\hrule height \headrulewidth\hfill}}
+
+
+\lohead{\includegraphics[width=0.3\textwidth]{Bilder/Qtec_colour}}
+\cohead{
+	\scriptsize\fachgebiet \par \nummer }
+\rohead{\textit{\leftmark}}
+%\lehead{\includegraphics[scale=0.25]{\logo}}
+%\rohead{\includegraphics[scale=0.25]{\logo}}
+\setheadsepline[text]{0.4pt} % Trennlinie unter Kopfzeile
+
+
+% Fußzeile
+
+
+\lofoot{\small{\textcolor{CorpColor}{Brunnenstrasse 6a}} \textcolor{CorpColor}{\textbullet} \small{\textcolor{CorpColor}{CH-8604 Volketswil}}\par
+	\small{\href{mailto:info@q-tec-ag.ch}{\color{CorpColor}info@g-tec-ag.ch}} \textcolor{CorpColor}{\textbullet} \small{\href{tel:0041433556010}{\color{CorpColor}+41 43 355 60 10}}
+}
+\cofoot{}
+\rofoot{Seite \thepage\ von \pageref{LastPage}}
+
+
+% sonstige typographische Einstellungen ---------------------------------------------------
+% erzeugt ein wenig mehr Platz hinter einem Punkt
+\frenchspacing{}
+
+% Schusterjungen und Hurenkinder vermeiden
+\clubpenalty = 10000
+\widowpenalty = 10000 
+\displaywidowpenalty = 10000
+
+% Quellcode-Ausgabe formatieren
+\lstset{numbers=left, numberstyle=\tiny, numbersep=5pt, breaklines=true}
+\lstset{emph={square}, emphstyle=\color{red}, emph={[2]root,base}, emphstyle={[2]\color{blue}}}
+
+% Fußnoten fortlaufend durchnummerieren
+%\counterwithout{footnote}{chapter}
+

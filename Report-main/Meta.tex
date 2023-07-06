@@ -1,0 +1,40 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX root =  Bachelorarbeit.tex
+
+% Meta-Informationen ------------------------------------------------------------------------------------
+%   Definition von globalen Parametern, die im gesamten Dokument verwendet
+%   werden können (z.B auf dem Deckblatt etc.).
+%
+%   ACHTUNG: Wenn die Texte Umlaute oder ein Esszet enthalten, muss der folgende
+%            Befehl bereits an dieser Stelle aktiviert werden:
+%            \usepackage[latin1]{inputenc}
+% -------------------------------------------------------------------------------------------------------
+\newcommand{\titel}{\color{CorpColor}Prüfbericht}
+\newcommand{\untertitel}{zur Live-Anzeige von Titelinformationen eines Webradios}
+\newcommand{\untertitelDeckblatt}{Brunnenstrasse 6a}
+
+\newcommand{\nummer}{\TextField[ height=\baselineskip,width=5cm, print, bordercolor={CorpColor}]{Nr.: }}
+\newcommand{\fachgebiet}{Mikrobiologische Umgebungsmonitoring\xspace}
+\newcommand{\betriebszustand}{\ChoiceMenu[height=12pt,width=2cm, bordercolor={CorpColor},print,combo,default= in operation]{Betriebszustand: }{in operation,at rest}}
+
+\newcommand{\autor}{Tatsiana Wiegner}
+\newcommand{\keywords}{Tatsiana Wiegner, Q-Tec AG}
+%\newcommand{\studienbereich}{Medieninformatik\xspace}
+\newcommand{\ansprechtsperson}{Herr}
+\newcommand{\kundeline}{Labor Zollinger AG}
+\newcommand{\objekt}{LZ}
+\newcommand{\abteilung}{Labor}
+%\newcommand{\raum}{Technischen Hochschule Mittelhessen}
+\newcommand{\messtechniker}{\ChoiceMenu[height=12pt,width=5cm, bordercolor={CorpColor},print,combo,default= A]{}{A,B,C}}
+\newcommand{\logo}{LogoMuster.pdf}
+\newcommand{\raum}{\ChoiceMenu[height=10pt,width=5cm, bordercolor={CorpColor},print,combo,default=Laminar Feld 1]{Raum:}{Laminar Feld 1, Laminar Feld 2, Arbeitsbereich 3, Arbeitsbereich 3, Labor (RNr. 14)}} 
+\newcommand{\kklasse}{\ChoiceMenu[height=12pt,width=1cm, bordercolor={CorpColor},print,combo,default= A]{Klasse:}{A,B,C}}
+
+
+
+\newcommand{\proben}{\ChoiceMenu[height=10pt,width=2cm, bordercolor={CorpColor},print,combo,default=Sedimentationsplatten]{Probe: }{Luftproben, Kontaktplatten, Sedimentationsplatten}} 
+\newcommand{\naehrmedium}{\ChoiceMenu[height=10pt,width=2cm, bordercolor={CorpColor},print,combo,default= TCA3 IR(Biomerieux)]{Nährmedium}{TCA3 IR(Biomerieux),CT3PT IR(Biomerieux)}} 
+\newcommand{\probeiso}{ISO 14698-1} 
+\newcommand{\beb}{Bebrütung: 2d/30-35$^0$C+3d720-25$^0$C} 
+
+%\newcommand{\mibiMMtl}{\ChoiceMenu[height=10pt,width=2cm, bordercolor={CorpColor},print,combo,default= 3]{MAS-100 NT}{1,2,3}} 
