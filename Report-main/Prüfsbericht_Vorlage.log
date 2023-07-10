@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.29)  6 JUL 2023 17:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.29)  10 JUL 2023 16:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -399,6 +399,12 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/eurosym\eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box58
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\wasysym.sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
 ) (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
 Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 )
@@ -518,53 +524,237 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 \qr@newforcount=\count301
 \c@qr@divisionsremaining=\count302
 )
-(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/nomencl\nomencl.sty
-Package: nomencl 2021/11/10 v5.6 Nomenclature package
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-extra\gl
+ossaries-extra.sty
+Package: glossaries-extra 2023/06/28 v1.52 (NLCT)
+
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.s
+ty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count303
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glo
+ssaries.sty
+Package: glossaries 2022/11/03 v4.52 (NLCT)
+
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.s
+ty
+Package: mfirstuc 2022/10/14 v2.08 (NLCT)
+\@glsmfirst=\toks31
+\@glsmrest=\toks32
+) (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-b
+ase.sty
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/substr\substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count304
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-f
+p.sty
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+ (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/fp\defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count305
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count306
+\FP@xia=\count307
+\FP@xib=\count308
+\FP@xfa=\count309
+\FP@xfb=\count310
+\FP@rega=\count311
+\FP@regb=\count312
+\FP@regs=\count313
+\FP@times=\count314
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count315
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/fp\fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks33
+\@dtl@tmpcount=\count316
+\dtl@tmplength=\skip74
+\dtl@sortresult=\count317
+\@dtl@numgrpsepcount=\count318
+\@dtl@datatype=\count319
+\dtl@codeA=\count320
+\dtl@codeB=\count321
+\@dtl@foreach@level=\count322
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang
+.sty
+Package: tracklang 2022/12/13 v1.6.1 (NLCT) Track Languages
+
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\trackla
+ng.tex))
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-german\g
+lossaries-german.ldf
+File: glossaries-german.ldf 2014/11/23 v1.0
+)
+\gls@level=\count323
+\@gls@tmpb=\toks34
+\gls@tmplen=\skip75
+\glskeylisttok=\toks35
+\glslabeltok=\toks36
+\glsshorttok=\toks37
+\glslongtok=\toks38
+
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\g
+lossary-hypernav.sty
+Package: glossary-hypernav 2022/11/03 v4.52 (NLCT)
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\g
+lossary-list.sty
+Package: glossary-list 2022/11/03 v4.52 (NLCT)
+\glslistdottedwidth=\skip76
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\g
+lossary-long.sty
+Package: glossary-long 2022/11/03 v4.52 (NLCT)
+
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip77
+\LTright=\skip78
+\LTpre=\skip79
+\LTpost=\skip80
+\LTchunksize=\count324
+\LTcapwidth=\dimen171
+\LT@head=\box61
+\LT@firsthead=\box62
+\LT@foot=\box63
+\LT@lastfoot=\box64
+\LT@gbox=\box65
+\LT@cols=\count325
+\LT@rows=\count326
+\c@LT@tables=\count327
+\c@LT@chunks=\count328
+\LT@p@ftn=\toks39
+)
+Class scrreprt Info: longtable captions redefined on input line 47.
+\glsdescwidth=\skip81
+\glspagelistwidth=\skip82
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\g
+lossary-super.sty
+Package: glossary-super 2022/11/03 v4.52 (NLCT)
+
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supert
+abular.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count329
+\ST@wd=\dimen172
+\ST@rightskip=\skip83
+\ST@leftskip=\skip84
+\ST@parfillskip=\skip85
+\ST@pageleft=\dimen173
+\ST@headht=\dimen174
+\ST@tailht=\dimen175
+\ST@pagesofar=\dimen176
+\ST@pboxht=\dimen177
+\ST@lineht=\dimen178
+\ST@prevht=\dimen179
+\ST@toadd=\dimen180
+\ST@dimen=\dimen181
+\ST@pbox=\box66
+))
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\g
+lossary-tree.sty
+Package: glossary-tree 2022/11/03 v4.52 (NLCT)
+\glstreeindent=\skip86
+))
+\@glsxtr@leveloffset=\count330
+\glsxtrresourcecount=\count331
+\@glsxtrnewgls@inner=\count332
+\glsshortpltok=\toks40
+\glslongpltok=\toks41
+
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-extra\gl
+ossaries-extra-abbrstyles.def
+File: glossaries-extra-abbrstyles.def 2023/06/28 v1.52 (NLCT)
+)
+\mglselementindex=\count333
+)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/nomencl\nomencl.sty
+Package: nomencl 2021/11/10 v5.6 Nomenclature package
 Package tocbasic Info: setting babel extension for `nlo' on input line 187.
 Package tocbasic Info: setting babel extension for `nls' on input line 188.
-\nomlabelwidth=\dimen171
-\nom@tempdim=\dimen172
-\nomitemsep=\skip74
+\nomlabelwidth=\dimen182
+\nom@tempdim=\dimen183
+\nomitemsep=\skip87
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/floatflt\floatflt.s
 ty
 Package: floatflt 1997/07/16 v. 1.31
-\c@OptionTest=\count303
-\figbox=\box61
-\tabbox=\box62
-\pagebox=\box63
-\ffigcount=\count304
-\ftabcount=\count305
-\fftest=\count306
-\hangcount=\count307
-\nosuccesstryfig=\count308
-\nosuccesstrytab=\count309
-\figgutter=\dimen173
-\tabgutter=\dimen174
-\htdone=\dimen175
-\pageht=\dimen176
-\startpageht=\dimen177
-\tabbredd=\dimen178
-\floatfltwidth=\dimen179
-\fltitemwidth=\dimen180
-\outputpretest=\toks31
+\c@OptionTest=\count334
+\figbox=\box67
+\tabbox=\box68
+\pagebox=\box69
+\ffigcount=\count335
+\ftabcount=\count336
+\fftest=\count337
+\hangcount=\count338
+\nosuccesstryfig=\count339
+\nosuccesstrytab=\count340
+\figgutter=\dimen184
+\tabgutter=\dimen185
+\htdone=\dimen186
+\pageht=\dimen187
+\startpageht=\dimen188
+\tabbredd=\dimen189
+\floatfltwidth=\dimen190
+\fltitemwidth=\dimen191
+\outputpretest=\toks42
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure
 .sty
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
-\subfigtopskip=\skip75
-\subfigcapskip=\skip76
-\subfigcaptopadj=\dimen181
-\subfigbottomskip=\skip77
-\subfigcapmargin=\dimen182
-\subfiglabelskip=\skip78
-\c@subfigure=\count310
-\c@lofdepth=\count311
-\c@subtable=\count312
-\c@lotdepth=\count313
+\subfigtopskip=\skip88
+\subfigcapskip=\skip89
+\subfigcaptopadj=\dimen192
+\subfigbottomskip=\skip90
+\subfigcapmargin=\dimen193
+\subfiglabelskip=\skip91
+\c@subfigure=\count341
+\c@lofdepth=\count342
+\c@subtable=\count343
+\c@lotdepth=\count344
 
 ****************************************
 * Local config file subfigure.cfg used *
@@ -572,30 +762,30 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure
 .cfg)
-\subfig@top=\skip79
-\subfig@bottom=\skip80
+\subfig@top=\skip92
+\subfig@bottom=\skip93
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.s
 ty
-\lst@mode=\count314
-\lst@gtempboxa=\box64
-\lst@token=\toks32
-\lst@length=\count315
-\lst@currlwidth=\dimen183
-\lst@column=\count316
-\lst@pos=\count317
-\lst@lostspace=\dimen184
-\lst@width=\dimen185
-\lst@newlines=\count318
-\lst@lineno=\count319
-\lst@maxwidth=\dimen186
+\lst@mode=\count345
+\lst@gtempboxa=\box70
+\lst@token=\toks43
+\lst@length=\count346
+\lst@currlwidth=\dimen194
+\lst@column=\count347
+\lst@pos=\count348
+\lst@lostspace=\dimen195
+\lst@width=\dimen196
+\lst@newlines=\count349
+\lst@lineno=\count350
+\lst@maxwidth=\dimen197
 
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.st
 y
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\c@lstnumber=\count320
-\lst@skipnumbers=\count321
-\lst@framebox=\box65
+\c@lstnumber=\count351
+\lst@skipnumbers=\count352
+\lst@framebox=\box71
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.c
 fg
@@ -608,10 +798,10 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip81
-\bibsep=\skip82
+\bibhang=\skip94
+\bibsep=\skip95
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count322
+\c@NAT@ctr=\count353
 
 Local config file natbib.cfg used
 (natbib.cfg))
@@ -674,16 +864,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 .sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count323
+\c@section@level=\count354
 )
-(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.s
-ty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count324
-)
-\@linkdim=\dimen187
-\Hy@linkcounter=\count325
-\Hy@pagecounter=\count326
+\@linkdim=\dimen198
+\Hy@linkcounter=\count355
+\Hy@pagecounter=\count356
 
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2023-05-16 v7.00y Hyperref: PDFDocEncoding definition (HO)
@@ -694,7 +879,7 @@ Now handling font encoding PD1 ...
 ty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count327
+\Hy@SavedSpaceFactor=\count357
 
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2023-05-16 v7.00y Hyperref: PDF Unicode definition (HO)
@@ -743,16 +928,16 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 ))
-\c@Hy@tempcnt=\count328
+\c@Hy@tempcnt=\count358
 LaTeX Info: Redefining \url on input line 4772.
-\XeTeXLinkMargin=\dimen188
+\XeTeXLinkMargin=\dimen199
 
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 )
-\Fld@menulength=\count329
-\Field@Width=\dimen189
-\Fld@charsize=\dimen190
+\Fld@menulength=\count359
+\Field@Width=\dimen256
+\Fld@charsize=\dimen257
 Package hyperref Info: Hyper figures OFF on input line 6051.
 Package hyperref Info: Link nesting OFF on input line 6056.
 Package hyperref Info: Hyper index ON on input line 6059.
@@ -766,19 +951,35 @@ ty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count330
-\c@Item=\count331
-\c@Hfootnote=\count332
+\Hy@abspage=\count360
+\c@Item=\count361
+\c@Hfootnote=\count362
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.de
 f
 File: hpdftex.def 2023-05-16 v7.00y Hyperref driver for pdfTeX
-\Fld@listcount=\count333
-\c@bookmark@seq@number=\count334
-\Hy@SectionHShift=\skip83
+\Fld@listcount=\count363
+\c@bookmark@seq@number=\count364
+\Hy@SectionHShift=\skip96
 )
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 232.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 232.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 232.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 232.
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\@ifnextchar' on input line 232.
@@ -793,38 +994,38 @@ ty
 Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
  (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count335
-\calc@Bcount=\count336
-\calc@Adimen=\dimen191
-\calc@Bdimen=\dimen192
-\calc@Askip=\skip84
-\calc@Bskip=\skip85
+\calc@Acount=\count365
+\calc@Bcount=\count366
+\calc@Adimen=\dimen258
+\calc@Bdimen=\dimen259
+\calc@Askip=\skip97
+\calc@Bskip=\skip98
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count337
-\calc@Cskip=\skip86
+\calc@Ccount=\count367
+\calc@Cskip=\skip99
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
-\ESO@tempdima=\dimen193
-\ESO@tempdimb=\dimen194
+\ESO@tempdima=\dimen260
+\ESO@tempdimb=\dimen261
 )
-\AM@pagewidth=\dimen195
-\AM@pageheight=\dimen196
-\AM@fboxrule=\dimen197
+\AM@pagewidth=\dimen262
+\AM@pageheight=\dimen263
+\AM@fboxrule=\dimen264
 
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.d
 ef
 File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
 )
-\pdfpages@includegraphics@status=\count338
-\AM@pagebox=\box66
-\AM@global@opts=\toks33
-\AM@pagecnt=\count339
-\AM@toc@title=\toks34
-\AM@lof@heading=\toks35
-\c@AM@survey=\count340
-\AM@templatesizebox=\box67
+\pdfpages@includegraphics@status=\count368
+\AM@pagebox=\box72
+\AM@global@opts=\toks44
+\AM@pagecnt=\count369
+\AM@toc@title=\toks45
+\AM@lof@heading=\toks46
+\c@AM@survey=\count370
+\AM@templatesizebox=\box73
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/chngcntr\chngcntr.s
 ty
@@ -835,32 +1036,11 @@ Package chngcntr Info: \counterwithout already defined.
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.s
 ty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip87
-\multirow@cntb=\count341
-\multirow@dima=\skip88
-\bigstrutjot=\dimen198
+\multirow@colwidth=\skip100
+\multirow@cntb=\count371
+\multirow@dima=\skip101
+\bigstrutjot=\dimen265
 )
-(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
-Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
-\LTleft=\skip89
-\LTright=\skip90
-\LTpre=\skip91
-\LTpost=\skip92
-\LTchunksize=\count342
-\LTcapwidth=\dimen199
-\LT@head=\box68
-\LT@firsthead=\box69
-\LT@foot=\box70
-\LT@lastfoot=\box71
-\LT@gbox=\box72
-\LT@cols=\count343
-\LT@rows=\count344
-\c@LT@tables=\count345
-\c@LT@chunks=\count346
-\LT@p@ftn=\toks36
-)
-Class scrreprt Info: longtable captions redefined on input line 249.
-
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\ltxtable.s
 ty
 Package: ltxtable 2021/06/13 v0.4 longtable/tabularx merge (DPC)
@@ -879,20 +1059,20 @@ Package filecontents Warning: This package is obsolete. Disabling it and
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.s
 ty
 Package: ragged2e 2023/06/22 v3.6 ragged2e Package
-\CenteringLeftskip=\skip93
-\RaggedLeftLeftskip=\skip94
-\RaggedRightLeftskip=\skip95
-\CenteringRightskip=\skip96
-\RaggedLeftRightskip=\skip97
-\RaggedRightRightskip=\skip98
-\CenteringParfillskip=\skip99
-\RaggedLeftParfillskip=\skip100
-\RaggedRightParfillskip=\skip101
-\JustifyingParfillskip=\skip102
-\CenteringParindent=\skip103
-\RaggedLeftParindent=\skip104
-\RaggedRightParindent=\skip105
-\JustifyingParindent=\skip106
+\CenteringLeftskip=\skip102
+\RaggedLeftLeftskip=\skip103
+\RaggedRightLeftskip=\skip104
+\CenteringRightskip=\skip105
+\RaggedLeftRightskip=\skip106
+\RaggedRightRightskip=\skip107
+\CenteringParfillskip=\skip108
+\RaggedLeftParfillskip=\skip109
+\RaggedRightParfillskip=\skip110
+\JustifyingParfillskip=\skip111
+\CenteringParindent=\skip112
+\RaggedLeftParindent=\skip113
+\RaggedRightParindent=\skip114
+\JustifyingParindent=\skip115
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
@@ -900,30 +1080,30 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.s
 ty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count347
-\rotFPtop=\skip107
-\rotFPbot=\skip108
-\rot@float@box=\box73
-\rot@mess@toks=\toks37
+\c@r@tfl@t=\count372
+\rotFPtop=\skip116
+\rotFPbot=\skip117
+\rot@float@box=\box74
+\rot@mess@toks=\toks47
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/paralist\paralist.s
 ty
 Package: paralist 2017/01/22 v2.7 Extended list environments
-\pltopsep=\skip109
-\plpartopsep=\skip110
-\plitemsep=\skip111
-\plparsep=\skip112
-\pl@lab=\toks38
+\pltopsep=\skip118
+\plpartopsep=\skip119
+\plitemsep=\skip120
+\plparsep=\skip121
+\pl@lab=\toks48
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.s
 ty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip113
-\enit@outerparindent=\dimen256
-\enit@toks=\toks39
-\enit@inbox=\box74
-\enit@count@id=\count348
-\enitdp@description=\count349
+\labelindent=\skip122
+\enit@outerparindent=\dimen266
+\enit@toks=\toks49
+\enit@inbox=\box75
+\enit@count@id=\count373
+\enitdp@description=\count374
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/forloop\forloop.sty
 Package: forloop 2023/05/03 v3.0 For Loops for LaTeX
@@ -941,13 +1121,13 @@ sty
 s.sty
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
 util-common.tex
-\pgfutil@everybye=\toks40
-\pgfutil@tempdima=\dimen257
-\pgfutil@tempdimb=\dimen258
+\pgfutil@everybye=\toks50
+\pgfutil@tempdima=\dimen267
+\pgfutil@tempdimb=\dimen268
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
 util-latex.def
-\pgfutil@abb=\box75
+\pgfutil@abb=\box76
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
 rcs.code.tex
@@ -967,33 +1147,33 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
 keys.code.tex
-\pgfkeys@pathtoks=\toks41
-\pgfkeys@temptoks=\toks42
+\pgfkeys@pathtoks=\toks51
+\pgfkeys@temptoks=\toks52
 
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
 keyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks43
+\pgfkeys@tmptoks=\toks53
 ))
-\pgf@x=\dimen259
-\pgf@y=\dimen260
-\pgf@xa=\dimen261
-\pgf@ya=\dimen262
-\pgf@xb=\dimen263
-\pgf@yb=\dimen264
-\pgf@xc=\dimen265
-\pgf@yc=\dimen266
-\pgf@xd=\dimen267
-\pgf@yd=\dimen268
+\pgf@x=\dimen269
+\pgf@y=\dimen270
+\pgf@xa=\dimen271
+\pgf@ya=\dimen272
+\pgf@xb=\dimen273
+\pgf@yb=\dimen274
+\pgf@xc=\dimen275
+\pgf@yc=\dimen276
+\pgf@xd=\dimen277
+\pgf@yd=\dimen278
 \w@pgf@writea=\write3
 \r@pgf@reada=\read3
-\c@pgf@counta=\count350
-\c@pgf@countb=\count351
-\c@pgf@countc=\count352
-\c@pgf@countd=\count353
-\t@pgf@toka=\toks44
-\t@pgf@tokb=\toks45
-\t@pgf@tokc=\toks46
-\pgf@sys@id@count=\count354
+\c@pgf@counta=\count375
+\c@pgf@countb=\count376
+\c@pgf@countc=\count377
+\c@pgf@countd=\count378
+\t@pgf@toka=\toks54
+\t@pgf@tokb=\toks55
+\t@pgf@tokc=\toks56
+\pgf@sys@id@count=\count379
 
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
 gf.cfg
@@ -1012,8 +1192,8 @@ File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
 gfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count355
-\pgfsyssoftpath@bigbuffer@items=\count356
+\pgfsyssoftpath@smallbuffer@items=\count380
+\pgfsyssoftpath@bigbuffer@items=\count381
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\p
 gfsysprotocol.code.tex
@@ -1029,12 +1209,12 @@ code.tex
 til.code.tex)
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathp
 arser.code.tex
-\pgfmath@dimen=\dimen269
-\pgfmath@count=\count357
-\pgfmath@box=\box76
-\pgfmath@toks=\toks47
-\pgfmath@stack@operand=\toks48
-\pgfmath@stack@operation=\toks49
+\pgfmath@dimen=\dimen279
+\pgfmath@count=\count382
+\pgfmath@box=\box77
+\pgfmath@toks=\toks57
+\pgfmath@stack@operand=\toks58
+\pgfmath@stack@operation=\toks59
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathf
 unctions.code.tex)
@@ -1058,59 +1238,59 @@ unctions.integerarithmetics.code.tex)
 alc.code.tex)
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathf
 loat.code.tex
-\c@pgfmathroundto@lastzeros=\count358
+\c@pgfmathroundto@lastzeros=\count383
 ))
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.c
 ode.tex)
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen270
-\pgf@picmaxx=\dimen271
-\pgf@picminy=\dimen272
-\pgf@picmaxy=\dimen273
-\pgf@pathminx=\dimen274
-\pgf@pathmaxx=\dimen275
-\pgf@pathminy=\dimen276
-\pgf@pathmaxy=\dimen277
-\pgf@xx=\dimen278
-\pgf@xy=\dimen279
-\pgf@yx=\dimen280
-\pgf@yy=\dimen281
-\pgf@zx=\dimen282
-\pgf@zy=\dimen283
+\pgf@picminx=\dimen280
+\pgf@picmaxx=\dimen281
+\pgf@picminy=\dimen282
+\pgf@picmaxy=\dimen283
+\pgf@pathminx=\dimen284
+\pgf@pathmaxx=\dimen285
+\pgf@pathminy=\dimen286
+\pgf@pathmaxy=\dimen287
+\pgf@xx=\dimen288
+\pgf@xy=\dimen289
+\pgf@yx=\dimen290
+\pgf@yy=\dimen291
+\pgf@zx=\dimen292
+\pgf@zy=\dimen293
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen284
-\pgf@path@lasty=\dimen285
+\pgf@path@lastx=\dimen294
+\pgf@path@lasty=\dimen295
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen286
-\pgf@shorten@start@additional=\dimen287
+\pgf@shorten@end@additional=\dimen296
+\pgf@shorten@start@additional=\dimen297
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box77
-\pgf@hbox=\box78
-\pgf@layerbox@main=\box79
-\pgf@picture@serial@count=\count359
+\pgfpic=\box78
+\pgf@hbox=\box79
+\pgf@layerbox@main=\box80
+\pgf@picture@serial@count=\count384
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen288
+\pgflinewidth=\dimen298
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen289
-\pgf@pt@y=\dimen290
-\pgf@pt@temp=\dimen291
+\pgf@pt@x=\dimen299
+\pgf@pt@y=\dimen300
+\pgf@pt@temp=\dimen301
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorequick.code.tex
@@ -1127,14 +1307,14 @@ File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen292
+\pgfarrowsep=\dimen302
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen293
-\pgf@sys@shading@range@num=\count360
-\pgf@shadingcount=\count361
+\pgf@max=\dimen303
+\pgf@sys@shading@range@num=\count385
+\pgf@shadingcount=\count386
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcoreimage.code.tex
@@ -1143,7 +1323,7 @@ File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box80
+\pgfexternal@startupbox=\box81
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pg
 fcorelayers.code.tex
@@ -1164,7 +1344,7 @@ File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmo
 duleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box81
+\pgfnodeparttextbox=\box82
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmo
 duleplot.code.tex
@@ -1173,8 +1353,8 @@ File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\p
 gfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen294
-\pgf@nodesepend=\dimen295
+\pgf@nodesepstart=\dimen304
+\pgf@nodesepend=\dimen305
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\p
 gfcomp-version-1-18.sty
@@ -1193,10 +1373,10 @@ code.tex))
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgf
 for.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen296
-\pgffor@skip=\dimen297
-\pgffor@stack=\toks50
-\pgffor@toks=\toks51
+\pgffor@iter=\dimen306
+\pgffor@skip=\dimen307
+\pgffor@stack=\toks60
+\pgffor@toks=\toks61
 ))
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer
 /tikz\tikz.code.tex
@@ -1205,34 +1385,34 @@ Package: tikz 2023-01-15 v3.1.10 (3.1.10)
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgf
 libraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count362
-\pgfplotmarksize=\dimen298
+\pgf@plot@mark@count=\count387
+\pgfplotmarksize=\dimen308
 )
-\tikz@lastx=\dimen299
-\tikz@lasty=\dimen300
-\tikz@lastxsaved=\dimen301
-\tikz@lastysaved=\dimen302
-\tikz@lastmovetox=\dimen303
-\tikz@lastmovetoy=\dimen304
-\tikzleveldistance=\dimen305
-\tikzsiblingdistance=\dimen306
-\tikz@figbox=\box82
-\tikz@figbox@bg=\box83
-\tikz@tempbox=\box84
-\tikz@tempbox@bg=\box85
-\tikztreelevel=\count363
-\tikznumberofchildren=\count364
-\tikznumberofcurrentchild=\count365
-\tikz@fig@count=\count366
+\tikz@lastx=\dimen309
+\tikz@lasty=\dimen310
+\tikz@lastxsaved=\dimen311
+\tikz@lastysaved=\dimen312
+\tikz@lastmovetox=\dimen313
+\tikz@lastmovetoy=\dimen314
+\tikzleveldistance=\dimen315
+\tikzsiblingdistance=\dimen316
+\tikz@figbox=\box83
+\tikz@figbox@bg=\box84
+\tikz@tempbox=\box85
+\tikz@tempbox@bg=\box86
+\tikztreelevel=\count388
+\tikznumberofchildren=\count389
+\tikznumberofcurrentchild=\count390
+\tikz@fig@count=\count391
 
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmo
 dulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count367
-\pgfmatrixcurrentcolumn=\count368
-\pgf@matrix@numberofcolumns=\count369
+\pgfmatrixcurrentrow=\count392
+\pgfmatrixcurrentcolumn=\count393
+\pgf@matrix@numberofcolumns=\count394
 )
-\tikz@expandcount=\count370
+\tikz@expandcount=\count395
 
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer
 /tikz/libraries\tikzlibrarytopaths.code.tex
@@ -1242,7 +1422,7 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 /tikz/libraries\tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-\c@@todonotes@numberoftodonotes=\count371
+\c@@todonotes@numberoftodonotes=\count396
 ))
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
@@ -1257,6 +1437,12 @@ Writing index file Pr체fsbericht_Vorlage.idx
 
 Package nomencl Info: Writing nomenclature file Pr체fsbericht_Vorlage.nlo on in
 put line 57.
+\glswrite=\write6
+\glo@acronym@file=\write7
+\openout7 = `Pr체fsbericht_Vorlage.acn'.
+
+Package glossaries Info: Writing glossary file Pr체fsbericht_Vorlage.acn on inp
+ut line 59.
 (Seitenstil.tex
 
 Package scrlayer-scrpage Warning: Command deprecated!
@@ -1270,7 +1456,35 @@ Package scrlayer-scrpage Warning: Command deprecated!
 (scrlayer-scrpage)                `<line thickness>:<line length>' to setup
 (scrlayer-scrpage)                the line length and thickness, and
 (scrlayer-scrpage)                `\setkomafont' or `\addtokomafont' to
-(scrlayer-scrpage)                setup the colour on input line 44.
+(scrlayer-scrpage)                setup the colour on input line 33.
+
+
+Package scrlayer-scrpage Warning: Command deprecated!
+(scrlayer-scrpage)                Usage of `\setheadtopline', `\setheadsepline'
+,
+(scrlayer-scrpage)                `\setfootsepline', and `\setfootbotline'
+(scrlayer-scrpage)                became deprecated with scrlayer-scrpage.
+(scrlayer-scrpage)                You should use KOMA-Script options
+(scrlayer-scrpage)                `headsepline', `headtopline', `footsepline',
+(scrlayer-scrpage)                or `footbotline' with values
+(scrlayer-scrpage)                `<line thickness>:<line length>' to setup
+(scrlayer-scrpage)                the line length and thickness, and
+(scrlayer-scrpage)                `\setkomafont' or `\addtokomafont' to
+(scrlayer-scrpage)                setup the colour on input line 45.
+
+
+Package scrlayer-scrpage Warning: Command deprecated!
+(scrlayer-scrpage)                Usage of `\setheadtopline', `\setheadsepline'
+,
+(scrlayer-scrpage)                `\setfootsepline', and `\setfootbotline'
+(scrlayer-scrpage)                became deprecated with scrlayer-scrpage.
+(scrlayer-scrpage)                You should use KOMA-Script options
+(scrlayer-scrpage)                `headsepline', `headtopline', `footsepline',
+(scrlayer-scrpage)                or `footbotline' with values
+(scrlayer-scrpage)                `<line thickness>:<line length>' to setup
+(scrlayer-scrpage)                the line length and thickness, and
+(scrlayer-scrpage)                `\setkomafont' or `\addtokomafont' to
+(scrlayer-scrpage)                setup the colour on input line 57.
 
 )
 
@@ -1284,7 +1498,7 @@ e 69.
 
 (Befehle.tex
 
-Package array Warning: Column w is already defined on input line 72.
+Package array Warning: Column w is already defined on input line 105.
 
 )
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 76
@@ -1295,8 +1509,8 @@ File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend
 -pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count372
-\l__pdf_internal_box=\box86
+\l__color_backend_stack_int=\count397
+\l__pdf_internal_box=\box87
 ) (Pr체fsbericht_Vorlage.aux (Deckblatt.aux) (Inhalt/Einleitung.aux))
 \openout1 = `Pr체fsbericht_Vorlage.aux'.
 
@@ -1328,18 +1542,18 @@ LaTeX Font Info:    ... okay on input line 76.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(71.13188pt, 469.47049pt, 56.9055pt)
-* v-part:(T,H,B)=(56.9055pt, 686.7347pt, 101.40665pt)
+* v-part:(T,H,B)=(56.9055pt, 674.33032pt, 113.81102pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=469.47049pt
-* \textheight=686.7347pt
+* \textheight=674.33032pt
 * \oddsidemargin=-1.1381pt
 * \evensidemargin=-1.1381pt
 * \topmargin=-55.23949pt
 * \headheight=59.75078pt
 * \headsep=21.75pt
 * \topskip=12.59605pt
-* \footskip=0.0pt
+* \footskip=25.0pt
 * \marginparwidth=59.7508pt
 * \marginparsep=12.8401pt
 * \columnsep=10.0pt
@@ -1357,17 +1571,17 @@ LaTeX Font Info:    ... okay on input line 76.
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pd
 f.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count373
-\scratchdimen=\dimen307
-\scratchbox=\box87
-\nofMPsegments=\count374
-\nofMParguments=\count375
-\everyMPshowfont=\toks52
-\MPscratchCnt=\count376
-\MPscratchDim=\dimen308
-\MPnumerator=\count377
-\makeMPintoPDFobject=\count378
-\everyMPtoPDFconversion=\toks53
+\scratchcounter=\count398
+\scratchdimen=\dimen317
+\scratchbox=\box88
+\nofMPsegments=\count399
+\nofMParguments=\count400
+\everyMPshowfont=\toks62
+\MPscratchCnt=\count401
+\MPscratchDim=\dimen318
+\MPnumerator=\count402
+\makeMPintoPDFobject=\count403
+\everyMPtoPDFconversion=\toks63
 )
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstop
 df-base.sty
@@ -1379,12 +1593,12 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 ys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count379
+\c@lstlisting=\count404
 Package backref Info: ** backref set up for natbib ** on input line 76.
 Package hyperref Info: Link coloring ON on input line 76.
  (Pr체fsbericht_Vorlage.out) (Pr체fsbericht_Vorlage.out)
-\@outlinefile=\write6
-\openout6 = `Pr체fsbericht_Vorlage.out'.
+\@outlinefile=\write8
+\openout8 = `Pr체fsbericht_Vorlage.out'.
 
 Class scrreprt Info: loading recommended package `bookmark'.
 (scrreprt)           Using `bookmark' together with `hyperref' is recommended,
@@ -1402,7 +1616,7 @@ Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex
 .def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
-\BKM@id=\count380
+\BKM@id=\count405
 ))
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape
 .sty
@@ -1438,7 +1652,7 @@ Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 * \headheight=59.75078pt
 * \headsep=21.75pt
 * \topskip=12.59605pt
-* \footskip=0.0pt
+* \footskip=25.0pt
 * \marginparwidth=59.7508pt
 * \marginparsep=12.8401pt
 * \columnsep=10.0pt
@@ -1458,6 +1672,7 @@ Package geometry Warning: `a4paper': not available in `\newgeometry'; skipped.
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd)
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd)
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\uwasy.fd)
 Overfull \vbox (10.15886pt too high) detected at line 21
  []
 
@@ -1536,6 +1751,8 @@ Overfull \hbox (180.49013pt too wide) in alignment at lines 66--66
 Non-PDF special ignored!
 <special> papersize=597.50787pt,845.04684pt
 
+\openout6 = `Pr체fsbericht_Vorlage.ist'.
+
 
 
 
@@ -1544,21 +1761,21 @@ Non-PDF special ignored!
 t.wiegner/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/
 t.wiegner/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./Bilde
 r/LogoQtecAG.png>])
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
-00.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 9
+9.
 
 (C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 (Pr체fsbericht_Vorlage.toc)
-\tf@toc=\write7
-\openout7 = `Pr체fsbericht_Vorlage.toc'.
+\tf@toc=\write9
+\openout9 = `Pr체fsbericht_Vorlage.toc'.
 
  (Inhalt/Glossar.tex)
-<Bilder/Qtec_colour.png, id=47, 816.04875pt x 221.32687pt>
+<Bilder/Qtec_colour.png, id=48, 816.04875pt x 221.32687pt>
 File: Bilder/Qtec_colour.png Graphic file (type png)
 <use Bilder/Qtec_colour.png>
-Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 106.
+Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 105.
 (pdftex.def)             Requested size: 140.84258pt x 38.19917pt.
 
 
@@ -1571,15 +1788,31 @@ Package scrlayer-scrpage Warning: \footheight to low.
 (scrlayer-scrpage)                  \setlength{\footheight}{56.6556pt}
 (scrlayer-scrpage)                in your preamble.
 (scrlayer-scrpage)                I'll also increase \footskip on input line 10
-6.
+5.
 
 [1
 
 
 
  <./Bilder/Qtec_colour.png>]
-No file Pr체fsbericht_Vorlage.nls.
-(Inhalt.tex
+No file Pr체fsbericht_Vorlage.acr.
+
+Package glossaries-extra Warning: Glossary `acronym' is missing on input line 1
+06.
+
+Missing character: There is no � in font ec-lmtt12!
+Missing character: There is no � in font ec-lmtt12!
+Missing character: There is no � in font ec-lmtt12!
+Missing character: There is no � in font ec-lmtt12!
+File: Bilder/Qtec_colour.png Graphic file (type png)
+<use Bilder/Qtec_colour.png>
+Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 111.
+(pdftex.def)             Requested size: 140.84258pt x 38.19917pt.
+[2
+
+
+
+] (Inhalt.tex
 \openout2 = `Inhalt/Einleitung.aux'.
 
  (Inhalt/Einleitung.tex
@@ -1599,205 +1832,201 @@ Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              a package that still implements the
 (scrreprt)              deprecated \float@addtolist interface.
 
-
-Overfull \hbox (11.74983pt too wide) in paragraph at lines 10--11
-[] 
- []
-
-
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 7.
+(C:\Users\t.wiegner\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
 Overfull \hbox (3.41013pt too wide) in paragraph at lines 15--16
 []\T1/lmr/m/n/12 Raum: [][][][] Klas-se: [][][][] Be-triebs-zu-stand:  [][][][]
  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
-[]|\T1/lmr/m/n/12 MP
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
-\T1/lmr/m/n/12 mit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
 \T1/lmr/m/n/12 WG
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
 \T1/lmr/m/n/12 Ver-let-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
 []|\T1/lmr/m/n/12 MP
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
 \T1/lmr/m/n/12 Ver-let-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
-[]|\T1/lmr/m/n/12 MP
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
-\T1/lmr/m/n/12 mit
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
 \T1/lmr/m/n/12 GW
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--39
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
 \T1/lmr/m/n/12 Ver-let-
  []
 
 
-Overfull \hbox (11.74983pt too wide) in paragraph at lines 39--40
+Overfull \hbox (11.74983pt too wide) in paragraph at lines 23--24
 [][] 
  []
 
 
-Overfull \hbox (3.41013pt too wide) in paragraph at lines 44--45
+Overfull \hbox (3.41013pt too wide) in paragraph at lines 28--29
 []\T1/lmr/m/n/12 Raum: [][][][] Klas-se: [][][][] Be-triebs-zu-stand:  [][][][]
  
  []
 
 
-Overfull \hbox (11.74983pt too wide) in paragraph at lines 62--63
+Overfull \hbox (11.74983pt too wide) in paragraph at lines 37--38
 [][] 
  []
 
 File: Bilder/Qtec_colour.png Graphic file (type png)
 <use Bilder/Qtec_colour.png>
-Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 64.
+Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 39.
 (pdftex.def)             Requested size: 140.84258pt x 38.19917pt.
 [1
 
 
 
-
 {C:/Users/t.wiegner/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.
 enc}]
-Overfull \hbox (11.74983pt too wide) in paragraph at lines 68--69
+Overfull \hbox (11.74983pt too wide) in paragraph at lines 43--44
 [][] 
  []
 
 
-Overfull \hbox (3.41013pt too wide) in paragraph at lines 74--75
+Overfull \hbox (3.41013pt too wide) in paragraph at lines 49--50
 []\T1/lmr/m/n/12 Raum: [][][][] Klas-se: [][][][] Be-triebs-zu-stand:  [][][][]
  
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 []|\T1/lmr/m/n/12 MP
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 \T1/lmr/m/n/12 mit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 \T1/lmr/m/n/12 WG
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 \T1/lmr/m/n/12 Ver-let-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 []|\T1/lmr/m/n/12 MP
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 \T1/lmr/m/n/12 Ver-let-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 []|\T1/lmr/m/n/12 MP
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 \T1/lmr/m/n/12 mit
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 \T1/lmr/m/n/12 GW
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
 \T1/lmr/m/n/12 Ver-let-
  []
 
 
-Overfull \hbox (3.41013pt too wide) in paragraph at lines 104--105
+Overfull \hbox (3.41013pt too wide) in paragraph at lines 63--64
 []\T1/lmr/m/n/12 Raum: [][][][] Klas-se: [][][][] Be-triebs-zu-stand:  [][][][]
  
  []
 
 
-Overfull \hbox (11.74983pt too wide) in paragraph at lines 122--123
+Overfull \hbox (11.74983pt too wide) in paragraph at lines 81--82
 [][] 
  []
 
 
-Overfull \hbox (3.41013pt too wide) in paragraph at lines 126--127
+Overfull \hbox (3.41013pt too wide) in paragraph at lines 85--86
 []\T1/lmr/m/n/12 Raum: [][][][] Klas-se: [][][][] Be-triebs-zu-stand:  [][][][]
  
  []
 
 
-Overfull \hbox (137.811pt too wide) in paragraph at lines 161--161
+Overfull \hbox (137.811pt too wide) in paragraph at lines 123--123
 []|[]| 
- []
-
-
-Overfull \hbox (11.74983pt too wide) in paragraph at lines 161--162
-[][] 
  []
 
 File: Bilder/Qtec_colour.png Graphic file (type png)
 <use Bilder/Qtec_colour.png>
-Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 163.
+Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 128.
 (pdftex.def)             Requested size: 140.84258pt x 38.19917pt.
 [2]
 chapter 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--171
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 133.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\char' on input line 133.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 133.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--174
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 136.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\char' on input line 136.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 136.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--140
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--185
+Underfull \hbox (badness 10000) in paragraph at lines 146--152
 
  []
 
 File: Bilder/Qtec_colour.png Graphic file (type png)
 <use Bilder/Qtec_colour.png>
-Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 188.
+Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 154.
 (pdftex.def)             Requested size: 140.84258pt x 38.19917pt.
 [3
 
@@ -1805,87 +2034,66 @@ Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 188.
 ]
 chapter 3.
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--193
-
- []
-
-
-Overfull \hbox (11.75203pt too wide) in paragraph at lines 194--210
+Overfull \hbox (11.75252pt too wide) in paragraph at lines 158--178
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 213--214
-
- []
-
-
-Overfull \hbox (11.77097pt too wide) in paragraph at lines 215--225
+Overfull \hbox (11.76108pt too wide) in paragraph at lines 182--193
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--227
-
- []
-
-
-Overfull \hbox (11.75703pt too wide) in paragraph at lines 228--249
+Overfull \hbox (11.76396pt too wide) in paragraph at lines 195--215
 [][] 
  []
 
 File: Bilder/Qtec_colour.png Graphic file (type png)
 <use Bilder/Qtec_colour.png>
-Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 249.
+Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 218.
 (pdftex.def)             Requested size: 140.84258pt x 38.19917pt.
 [4
 
 {C:/Users/t.wiegner/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.
 enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 251--253
+Underfull \hbox (badness 10000) in paragraph at lines 221--223
 
  []
 
 
-Overfull \hbox (11.75203pt too wide) in paragraph at lines 254--270
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 273--274
-
- []
-
-
-Overfull \hbox (11.77097pt too wide) in paragraph at lines 275--285
+Overfull \hbox (11.75252pt too wide) in paragraph at lines 227--244
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
-
- []
-
-
-Overfull \hbox (11.75703pt too wide) in paragraph at lines 288--309
+Overfull \hbox (11.76108pt too wide) in paragraph at lines 248--259
 [][] 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--282
+
+ []
+
+)
 File: Bilder/Qtec_colour.png Graphic file (type png)
 <use Bilder/Qtec_colour.png>
-Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 330.
+Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 8.
 (pdftex.def)             Requested size: 140.84258pt x 38.19917pt.
-[5])
+ [5]
 File: Bilder/Qtec_colour.png Graphic file (type png)
 <use Bilder/Qtec_colour.png>
 Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 8.
 (pdftex.def)             Requested size: 140.84258pt x 38.19917pt.
  [6]) (Pr체fsbericht_Vorlage.bbl (Pr체fsbericht_Vorlage.brf)
-\tf@brf=\write8
-\openout8 = `Pr체fsbericht_Vorlage.brf'.
+\tf@brf=\write10
+\openout10 = `Pr체fsbericht_Vorlage.brf'.
 
 
 chapter without number
+
+Package natbib Warning: Empty `thebibliography' environment on input line 15.
+
 )
 
 Class scrreprt Warning: You are using `\begin{appendix}...\end{appendix}'.
@@ -1899,11 +2107,11 @@ Class scrreprt Warning: You are using `\begin{appendix}...\end{appendix}'.
 (scrreprt)              inconsistent.
 (scrreprt)              Because of this, you should remove `\end{appendix}'
 (scrreprt)              and replace `\begin{appendix}' by command
-(scrreprt)              `\appendix' on input line 154.
+(scrreprt)              `\appendix' on input line 153.
 
 File: Bilder/Qtec_colour.png Graphic file (type png)
 <use Bilder/Qtec_colour.png>
-Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 155.
+Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 154.
 (pdftex.def)             Requested size: 140.84258pt x 38.19917pt.
 [7
 
@@ -1915,7 +2123,7 @@ chapter A.
 (Anhang.tex)
 File: Bilder/Qtec_colour.png Graphic file (type png)
 <use Bilder/Qtec_colour.png>
-Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 164.
+Package pdftex.def Info: Bilder/Qtec_colour.png  used on input line 163.
 (pdftex.def)             Requested size: 140.84258pt x 38.19917pt.
  [1
 
@@ -1932,34 +2140,35 @@ Package rerunfilecheck Info: File `Pr체fsbericht_Vorlage.brf' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 35008 strings out of 476036
- 676665 string characters out of 5777936
- 1901763 words of memory out of 5000000
- 55068 multiletter control sequences out of 15000+600000
- 568116 words of font info for 79 fonts, out of 8000000 for 9000
+ 44195 strings out of 476036
+ 858851 string characters out of 5777936
+ 1902763 words of memory out of 5000000
+ 64138 multiletter control sequences out of 15000+600000
+ 564306 words of font info for 84 fonts, out of 8000000 for 9000
  1150 hyphenation exceptions out of 8191
- 108i,24n,234p,10918b,1889s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\t.wiegner\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
-ecsx1200.pk> <C:\Users\t.wiegner\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
-ec/dpi600\ecss1440.pk> <C:\Users\t.wiegner\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecsx1728.pk> <C:\Users\t.wiegner\AppData\Local\MiKTeX\fonts
-/pk/ljfour/jknappen/ec/dpi600\ecsx2074.pk> <C:\Users\t.wiegner\AppData\Local\Mi
-KTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1200.pk><C:/Users/t.wiegner/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/t.wiegner/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/t.wiegne
-r/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/t.wi
-egner/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/t
-.wiegner/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/User
-s/t.wiegner/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Us
-ers/t.wiegner/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C
-:/Users/t.wiegner/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.
-pfb><C:/Users/t.wiegner/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lms
-y10.pfb><C:/Users/t.wiegner/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm
-/lmtt10.pfb><C:/Users/t.wiegner/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/lm/lmtt12.pfb>
-Output written on Pr체fsbericht_Vorlage.pdf (10 pages, 390377 bytes).
+ 115i,23n,234p,10918b,1889s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\t.wiegner\AppData\Local\MiKTeX\fonts/pk/ljfour/public/wasy/dpi720\
+wasy10.pk> <C:\Users\t.wiegner\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecsx1200.pk> <C:\Users\t.wiegner\AppData\Local\MiKTeX\fonts/pk/ljfour/j
+knappen/ec/dpi600\ecss1440.pk> <C:\Users\t.wiegner\AppData\Local\MiKTeX\fonts/p
+k/ljfour/jknappen/ec/dpi600\ecsx1728.pk> <C:\Users\t.wiegner\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsx2074.pk> <C:\Users\t.wiegner\AppData\
+Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1200.pk><C:/Users/t.wiegner
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/t.wie
+gner/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/t.
+wiegner/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users
+/t.wiegner/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Use
+rs/t.wiegner/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:
+/Users/t.wiegner/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb
+><C:/Users/t.wiegner/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx
+10.pfb><C:/Users/t.wiegner/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
+lmsy10.pfb><C:/Users/t.wiegner/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/lm/lmtt10.pfb><C:/Users/t.wiegner/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/lm/lmtt12.pfb><C:/Users/t.wiegner/AppData/Local/Programs/MiKTeX/fonts/type
+1/urw/zapfding/uzdr.pfb>
+Output written on Pr체fsbericht_Vorlage.pdf (11 pages, 386677 bytes).
 PDF statistics:
- 472 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
- 103 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 525 PDF objects out of 1000 (max. 8388607)
+ 26 named destinations out of 1000 (max. 500000)
+ 211 words of extra memory for PDF output out of 10000 (max. 10000000)
 

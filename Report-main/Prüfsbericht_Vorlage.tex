@@ -55,7 +55,7 @@
 % Erstellung eines Index und Abkürzungsverzeichnisses/Glossars aktivieren ------------------------------
 \makeindex{}
 \makenomenclature{}
-
+\makeglossaries
 
 % Kopf- und Fußzeilen, Seitenränder etc. ---------------------------------------------------------------
 \input{Seitenstil}
@@ -80,8 +80,7 @@
 \setcounter{secnumdepth}{3}
 % Nummerierungsebenen im Inhaltsverzeichnis
 \setcounter{tocdepth}{2}
-
-
+  
 % Deckblatt und Abstract ohne Seitenzahl ---------------------------------------------------------------
 \ofoot{}
 \include{Deckblatt}
@@ -104,7 +103,7 @@
 \input{Inhalt/Glossar}
 % für korrekte Überschrift in der Kopfzeile
 \clearpage\markboth{\nomname}{\nomname} 
-\printnomenclature{}
+\printglossaries
 \label{sec:Glossar}
 
 

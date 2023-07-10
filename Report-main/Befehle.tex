@@ -6,7 +6,40 @@
 % einfaches Wechseln der Schrift, z.B.: \changefont{cmss}{sbc}{n} ---------------------------------------
 \newcommand{\changefont}[3]{\fontfamily{#1} \fontseries{#2} \fontshape{#3} \selectfont}
 
+\newcommand*\signaturelinewidth{5cm}
+\newcommand*\signaturelineheight{.4pt}
 
+\newcommand*\signaturelabelindent{.5cm}
+\newcommand*\signaturetextindent{}
+\NewDocumentCommand\signatureline{
+	O{\signaturelinewidth}      % line width
+	O{\signaturelabelindent}    % label margin
+	O{%                           text indentation
+		\ifx\@empty\signaturetextindent
+		.5\dimexpr #2\relax
+		\else
+		\signaturetextindent
+		\fi
+	}
+	m                           % label
+	O{\signaturelineheight}     % line height
+	O{\signaturelineraise}      % line raise
+	D||{}                       % text
+}{%
+	\parbox[t]{#1}{%
+		\leftskip #3%
+		\mbox{\strut #7}%
+		\vskip -#6%
+		\hrule height #5%
+		\vskip #6%
+		\scriptsize
+		\leftskip #2%
+		\rightskip #2%
+		\strut #4%
+	}%
+}
+
+%\makeatother
 
 % Abkürzungen mit korrektem Leerraum --------------------------------------------------------------------
 \newcommand{\ua}{\mbox{u.\,a.\ }}

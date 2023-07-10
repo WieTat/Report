@@ -10,8 +10,8 @@
 %            \usepackage[latin1]{inputenc}
 % -------------------------------------------------------------------------------------------------------
 \newcommand{\titel}{\color{CorpColor}Prüfbericht}
-\newcommand{\untertitel}{zur Live-Anzeige von Titelinformationen eines Webradios}
-\newcommand{\untertitelDeckblatt}{Brunnenstrasse 6a}
+\newcommand{\untertitel}{\ChoiceMenu[height=12pt,width=2cm, bordercolor={CorpColor},print,combo,default= Quali]{}{\color{CorpColor}{in operation,at rest}}}
+%\newcommand{\untertitelDeckblatt}{Brunnenstrasse 6a}
 
 \newcommand{\nummer}{\TextField[ height=\baselineskip,width=5cm, print, bordercolor={CorpColor}]{Nr.: }}
 \newcommand{\fachgebiet}{Mikrobiologische Umgebungsmonitoring\xspace}
@@ -29,7 +29,6 @@
 \newcommand{\logo}{LogoMuster.pdf}
 \newcommand{\raum}{\ChoiceMenu[height=10pt,width=5cm, bordercolor={CorpColor},print,combo,default=Laminar Feld 1]{Raum:}{Laminar Feld 1, Laminar Feld 2, Arbeitsbereich 3, Arbeitsbereich 3, Labor (RNr. 14)}} 
 \newcommand{\kklasse}{\ChoiceMenu[height=12pt,width=1cm, bordercolor={CorpColor},print,combo,default= A]{Klasse:}{A,B,C}}
-
 
 
 \newcommand{\proben}{\ChoiceMenu[height=10pt,width=2cm, bordercolor={CorpColor},print,combo,default=Sedimentationsplatten]{Probe: }{Luftproben, Kontaktplatten, Sedimentationsplatten}} 

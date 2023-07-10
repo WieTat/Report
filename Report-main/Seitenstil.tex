@@ -7,7 +7,7 @@
 
 % Seitenränder ------------------------------------------------------------------------------------
 \setlength{\topskip}{\ht\strutbox} % behebt Warnung von geometry
-\geometry{paper=a4paper,left=25mm,right=20mm,top=20mm,footskip=0pt}
+\geometry{paper=a4paper,left=25mm,right=20mm,top=20mm, bottom = 40mm, footskip=25pt}
 
 
 % Kopf- und Fußzeilen --------------------------------------------------------------------------
@@ -30,6 +30,7 @@
 \setlength{\headheight}{21mm} % Höhe der Kopfzeile
 % Kopfzeile über den Text hinaus verbreitern
 %\setheadwidth[0pt]{textwithmarginpar} 
+\setheadsepline{1pt}[\color{CorpColor}]
 %\setheadsepline[text]{0.4pt} % Trennlinie unter Kopfzeile
 %\renewcommand{\headrulewidth}{0.5pt}
 %\renewcommand{\headrule}{\hbox to\headwidth{\color{red}\leaders\hrule height \headrulewidth\hfill}}
@@ -37,7 +38,7 @@
 
 \lohead{\includegraphics[width=0.3\textwidth]{Bilder/Qtec_colour}}
 \cohead{
-	\scriptsize\fachgebiet \par \nummer }
+	\scriptsize\fachgebiet \par \nummer \par }
 \rohead{\textit{\leftmark}}
 %\lehead{\includegraphics[scale=0.25]{\logo}}
 %\rohead{\includegraphics[scale=0.25]{\logo}}
@@ -47,12 +48,13 @@
 % Fußzeile
 
 
-\lofoot{\small{\textcolor{CorpColor}{Brunnenstrasse 6a}} \textcolor{CorpColor}{\textbullet} \small{\textcolor{CorpColor}{CH-8604 Volketswil}}\par
-	\small{\href{mailto:info@q-tec-ag.ch}{\color{CorpColor}info@g-tec-ag.ch}} \textcolor{CorpColor}{\textbullet} \small{\href{tel:0041433556010}{\color{CorpColor}+41 43 355 60 10}}
+\lofoot{\scriptsize{\textcolor{CorpColor}{Brunnenstrasse 6a}} \textcolor{CorpColor}{\textbullet} \scriptsize{\textcolor{CorpColor}{CH-8604 Volketswil}}\par
+	\scriptsize{\href{mailto:info@q-tec-ag.ch}{\color{CorpColor}info@g-tec-ag.ch}} \textcolor{CorpColor}{\textbullet} \scriptsize{\href{tel:0041433556010}{\color{CorpColor}+41 43 355 60 10}}
 }
 \cofoot{}
 \rofoot{Seite \thepage\ von \pageref{LastPage}}
 
+\setfootsepline{1pt}[\color{CorpColor}]
 
 % sonstige typographische Einstellungen ---------------------------------------------------
 % erzeugt ein wenig mehr Platz hinter einem Punkt

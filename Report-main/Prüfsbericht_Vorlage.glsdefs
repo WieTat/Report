@@ -1,0 +1,532 @@
+\glsdefs@newdocentry{AK}%
+{%
+name={\acronymfont {\glsentryshort {AK}}},%
+sort={ak},%
+type={acronym},%
+first={ak},%
+firstplural={aks},%
+text={ak},%
+plural={aks},%
+description={Oberflächenkeimzahlbestimmung},%
+descriptionplural={Oberflächenkeimzahlbestimmung},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Oberflächenkeimzahlbestimmung},%
+longplural={Oberflächenkeimzahlbestimmungs},%
+short={ak},%
+shortplural={aks},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{LU}%
+{%
+name={\acronymfont {\glsentryshort {LU}}},%
+sort={lu},%
+type={acronym},%
+first={lu},%
+firstplural={lus},%
+text={lu},%
+plural={lus},%
+description={Aktive Luftkeimzahlbestimmung},%
+descriptionplural={Aktive Luftkeimzahlbestimmung},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Aktive Luftkeimzahlbestimmung},%
+longplural={Aktive Luftkeimzahlbestimmungs},%
+short={lu},%
+shortplural={lus},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{SE}%
+{%
+name={\acronymfont {\glsentryshort {SE}}},%
+sort={se},%
+type={acronym},%
+first={se},%
+firstplural={ses},%
+text={se},%
+plural={ses},%
+description={Sedimentation},%
+descriptionplural={Sedimentation},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Sedimentation},%
+longplural={Sedimentations},%
+short={se},%
+shortplural={ses},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{KBE}%
+{%
+name={\acronymfont {\glsentryshort {KBE}}},%
+sort={kbe},%
+type={acronym},%
+first={kbe},%
+firstplural={kbes},%
+text={kbe},%
+plural={kbes},%
+description={Koloniebildende Einheiten},%
+descriptionplural={Koloniebildende Einheiten},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Koloniebildende Einheiten},%
+longplural={Koloniebildende Einheitens},%
+short={kbe},%
+shortplural={kbes},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{EN}%
+{%
+name={\acronymfont {\glsentryshort {EN}}},%
+sort={en},%
+type={acronym},%
+first={en},%
+firstplural={ens},%
+text={en},%
+plural={ens},%
+description={Europ\"aische Norm},%
+descriptionplural={Europ\"aische Norm},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Europ\"aische Norm},%
+longplural={Europ\"aische Norms},%
+short={en},%
+shortplural={ens},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{EU}%
+{%
+name={\acronymfont {\glsentryshort {EU}}},%
+sort={eu},%
+type={acronym},%
+first={eu},%
+firstplural={eus},%
+text={eu},%
+plural={eus},%
+description={Europ\"aische Union},%
+descriptionplural={Europ\"aische Union},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Europ\"aische Union},%
+longplural={Europ\"aische Unions},%
+short={eu},%
+shortplural={eus},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{H13/H14}%
+{%
+name={\acronymfont {\glsentryshort {H13/H14}}},%
+sort={h13h14},%
+type={acronym},%
+first={h13h14},%
+firstplural={h13h14s},%
+text={h13h14},%
+plural={h13h14s},%
+description={Filterklasse gem"assig EN 1822-1},%
+descriptionplural={Filterklasse gem"assig EN 1822-1},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Filterklasse gem"assig EN 1822-1},%
+longplural={Filterklasse gem"assig EN 1822-1s},%
+short={h13h14},%
+shortplural={h13h14s},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ISO}%
+{%
+name={\acronymfont {\glsentryshort {ISO}}},%
+sort={iso},%
+type={acronym},%
+first={iso},%
+firstplural={isos},%
+text={iso},%
+plural={isos},%
+description={International Organization for Standardization},%
+descriptionplural={International Organization for Standardization},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={International Organization for Standardization},%
+longplural={International Organization for Standardizations},%
+short={iso},%
+shortplural={isos},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{OP}%
+{%
+name={\acronymfont {\glsentryshort {OP}}},%
+sort={op},%
+type={acronym},%
+first={op},%
+firstplural={ops},%
+text={op},%
+plural={ops},%
+description={Operationssaal},%
+descriptionplural={Operationssaal},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Operationssaal},%
+longplural={Operationssaals},%
+short={op},%
+shortplural={ops},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{PIC}%
+{%
+name={\acronymfont {\glsentryshort {PIC}}},%
+sort={pic},%
+type={acronym},%
+first={pic},%
+firstplural={pics},%
+text={pic},%
+plural={pics},%
+description={Pharmaceutical Inspection Co-Operation},%
+descriptionplural={Pharmaceutical Inspection Co-Operation},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Pharmaceutical Inspection Co-Operation},%
+longplural={Pharmaceutical Inspection Co-Operations},%
+short={pic},%
+shortplural={pics},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{S/N}%
+{%
+name={\acronymfont {\glsentryshort {S/N}}},%
+sort={sn},%
+type={acronym},%
+first={sn},%
+firstplural={sns},%
+text={sn},%
+plural={sns},%
+description={Seriennummer},%
+descriptionplural={Seriennummer},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Seriennummer},%
+longplural={Seriennummers},%
+short={sn},%
+shortplural={sns},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{SOP}%
+{%
+name={\acronymfont {\glsentryshort {SOP}}},%
+sort={sop},%
+type={acronym},%
+first={sop},%
+firstplural={sops},%
+text={sop},%
+plural={sops},%
+description={Sandard Oprerating Procedure (Standard Arbeitsanweisung},%
+descriptionplural={Sandard Oprerating Procedure (Standard Arbeitsanweisung},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Sandard Oprerating Procedure (Standard Arbeitsanweisung},%
+longplural={Sandard Oprerating Procedure (Standard Arbeitsanweisungs},%
+short={sop},%
+shortplural={sops},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{SWKI}%
+{%
+name={\acronymfont {\glsentryshort {SWKI}}},%
+sort={swki},%
+type={acronym},%
+first={swki},%
+firstplural={swkis},%
+text={swki},%
+plural={swkis},%
+description={Schweizerische Verein von Geb"audetechnik- Ingenieuren},%
+descriptionplural={Schweizerische Verein von Geb"audetechnik- Ingenieuren},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Schweizerische Verein von Geb"audetechnik- Ingenieuren},%
+longplural={Schweizerische Verein von Geb"audetechnik- Ingenieurens},%
+short={swki},%
+shortplural={swkis},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{WG}%
+{%
+name={\acronymfont {\glsentryshort {WG}}},%
+sort={wg},%
+type={acronym},%
+first={wg},%
+firstplural={wgs},%
+text={wg},%
+plural={wgs},%
+description={Warngrenze},%
+descriptionplural={Warngrenze},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Warngrenze},%
+longplural={Warngrenzes},%
+short={wg},%
+shortplural={wgs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{MPs}%
+{%
+name={\acronymfont {\glsentryshort {MPs}}},%
+sort={mps},%
+type={acronym},%
+first={mps},%
+firstplural={mpss},%
+text={mps},%
+plural={mpss},%
+description={Messpunkten},%
+descriptionplural={Messpunkten},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Messpunkten},%
+longplural={Messpunktens},%
+short={mps},%
+shortplural={mpss},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{MP}%
+{%
+name={\acronymfont {\glsentryshort {MP}}},%
+sort={mp},%
+type={acronym},%
+first={mp},%
+firstplural={mps},%
+text={mp},%
+plural={mps},%
+description={Messpunkt},%
+descriptionplural={Messpunkt},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Messpunkt},%
+longplural={Messpunkts},%
+short={mp},%
+shortplural={mps},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{AGR}%
+{%
+name={\acronymfont {\glsentryshort {AGR}}},%
+sort={agr},%
+type={acronym},%
+first={agr},%
+firstplural={agrs},%
+text={agr},%
+plural={agrs},%
+description={Aktionsgrenze},%
+descriptionplural={Aktionsgrenze},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Aktionsgrenze},%
+longplural={Aktionsgrenzes},%
+short={agr},%
+shortplural={agrs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{GW}%
+{%
+name={\acronymfont {\glsentryshort {GW}}},%
+sort={gw},%
+type={acronym},%
+first={gw},%
+firstplural={gws},%
+text={gw},%
+plural={gws},%
+description={Grenzwert},%
+descriptionplural={Grenzwert},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Grenzwert},%
+longplural={Grenzwerts},%
+short={gw},%
+shortplural={gws},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{GMP}%
+{%
+name={\acronymfont {\glsentryshort {GMP}}},%
+sort={gmp},%
+type={acronym},%
+first={gmp},%
+firstplural={gmps},%
+text={gmp},%
+plural={gmps},%
+description={Good Manufacturinbg Practice, Gute Herstellungspraxis},%
+descriptionplural={Good Manufacturinbg Practice, Gute Herstellungspraxis},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Good Manufacturinbg Practice, Gute Herstellungspraxis},%
+longplural={Good Manufacturinbg Practice, Gute Herstellungspraxiss},%
+short={gmp},%
+shortplural={gmps},%
+counter={page},%
+parent={},%
+%
+}%
+

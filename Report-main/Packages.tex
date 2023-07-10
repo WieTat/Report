@@ -47,7 +47,7 @@
 % Eurozeichen benutzen ------------------------------------------------------------
 \usepackage{eurosym}
 
-
+\usepackage{wasysym} 
 % für Index-Ausgabe mit \printindex -----------------------------------------------
 \usepackage{makeidx}
 
@@ -60,7 +60,7 @@
 \usepackage{xcolor}
 \definecolor{CorpColor}{RGB}{0,173,187}
 \usepackage{qrcode}
-
+\usepackage[acronym,nomain]{glossaries-extra}
 
 
 % Symbolverzeichnis ------------------------------------------------------------------
@@ -81,7 +81,7 @@
 % -------------------------------------------------------------------------------------------
 \usepackage[intoc]{nomencl}
 \let\abbrev\nomenclature
-\renewcommand{\nomname}{Abkürzungsverzeichnis und Glossar}
+\renewcommand{\nomname}{Abkürzungsliste}
 \setlength{\nomlabelwidth}{.25\hsize}
 \renewcommand{\nomlabel}[1]{#1 \dotfill}
 \setlength{\nomitemsep}{-\parsep}

@@ -3,39 +3,23 @@
 
 
 \chapter{Auswertung} \label{cha:Auswertung}
-%\textcolor{CorpColor}{\hline}
-\begin{tabularx}{\textwidth}{XXXX}
-	Kunde & Objekt & Abteilung & Ansprehperson \tabularnewline
-\kundeline & \objekt& \abteilung & \ansprechtsperson \tabularnewline
-\end{tabularx}
+\begin{Form}
+
+	Kunde: \kundeline \quad Objekt: \objekt \quad Abteilung: \abteilung\par
+	Ansprehperson: \ansprechtsperson
+%\kundeline & \objekt& \abteilung & \ansprechtsperson \tabularnewline
 \par
-In den Tabellen sind die Durchschnittswerte gem"ass dem EU-GMP-Leitfaden dargestellt.
+In den Tabellen sind die Durchschnittswerte gem"ass dem \gls{EU}-\glsxtrshort{gmp}-Leitfaden dargestellt.
 \par 
 \vspace{1ex}
 \raum \qquad \kklasse \qquad \betriebszustand
 
 \begin{tabularx}{\textwidth}{|l|c|c|X|c|c|X|c|c|X|c|}
 	\hline
-	Prüfung & 
-	\rotatebox[origin=c]{90}{Befund} & \rotatebox[origin=c]{90}{Warngrenze (WG)} &
-	MP mit WG Verletzung &
-	\rotatebox[origin=c]{90}{Eingehalten} & \rotatebox[origin=c]{90}{Aktionsgrenze (AG)} &
-	MP mit AG Verletzung &
-	\rotatebox[origin=c]{90}{Eingehalten} & \rotatebox[origin=c]{90}{Grenzwert (GW)}	&
-	MP mit GW Verletzung & \rotatebox[origin=c]{90}{Eingehalten}\\
-	\hline
-		Luftprobe & 
-	< 1  & $\geq$ 1 & 0 von 2 & \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch1]{}& > 1  & 0 von 2 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch2]{}&
-	1 & 0 von 2 &  \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch3]{} \\
-	\hline
-		Sedimentationsplatten & 
-	< 1  & $\geq$ 1 & 0 von 2 & \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch4]{}& > 1  & 0 von 2 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch5]{}&
-	1 & 0 von 2 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch6]{} \\
-\hline
-		Kontaktplatten & 
-	< 1  & $\geq$ 1 & 0 von 8 & \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch7]{}& > 1  & 0 von 8 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch8]{}&
-	1 & 0 von 8 &  \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch9]{} \\
-	\hline
+	Prüfung               & \rotatebox[origin=c]{90}{Befund} & \rotatebox[origin=c]{90}{\glsxtrlong{WG}} & MP mit WG Verletzung & \rotatebox[origin=c]{90}{Eingehalten}                        & \rotatebox[origin=c]{90}{Aktionsgrenze (AG)} & MP mit AG Verletzung & \rotatebox[origin=c]{90}{Eingehalten}                  & \rotatebox[origin=c]{90}{\glsxtrlong{GW}} & MP mit GW Verletzung & \rotatebox[origin=c]{90}{Eingehalten}                        \\ \hline
+	Luftprobe             & < 1                              & $\geq$ 1                                  & 0 von 2              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch1]{} & > 1                                          & 0 von 2              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch2]{} & 1                                        & 0 von 2              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch3]{} \\ \hline
+	Sedimentationsplatten & < 1                              & $\geq$ 1                                  & 0 von 2              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch4]{} & > 1                                          & 0 von 2              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch5]{} & 1                                        & 0 von 2              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch6]{}       \\ \hline
+	Kontaktplatten        & < 1                              & $\geq$ 1                                  & 0 von 8              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch7]{} & > 1                                          & 0 von 8              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch8]{} & 1                                        & 0 von 8              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch9]{} \\ \hline
 \end{tabularx}
 
 
@@ -44,21 +28,12 @@ In den Tabellen sind die Durchschnittswerte gem"ass dem EU-GMP-Leitfaden dargest
 \raum \qquad \kklasse \qquad \betriebszustand
 
 \begin{tabularx}{\textwidth}{|l|c|c|X|c|c|X|c|c|X|c|}
-	
-	%\multicolumn{2}{|l|}{Q-TEC AG}&\multicolumn{2}{|l|}{Kunde}\\
-	\hline
-	Luftprobe & 
-	< 1  & $\geq$ 1 & 0 von 1 & \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch10]{}& > 1  & 0 von 1 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch11]{}&
-	1 & 0 von 1 &  \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch12]{} \\
-	\hline
-	Sedimentationsplatten & 
-	< 1  & $\geq$ 1 & 0 von 1 & \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch13]{}& > 1  & 0 von 1 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch14]{}&
-	1 & 0 von 1 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch15]{} \\
-	\hline
-	Kontaktplatten & 
-	< 1  & $\geq$ 1 & 0 von 4 & \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch16]{}& > 1  & 0 von 4 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch17]{}&
-	1 & 0 von 4 &  \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch18]{} \\
-	\hline
+	%\multicolumn{2}{|l|}{Q-TEC AG}&\multicolumn{2}{|l|}{Kunde}
+	%\multicolumn{2}{|l|}{Q-TEC AG} & \multicolumn{2}{|l|}{Kunde} &  \\
+	 \hline
+	Luftprobe                       & < 1 & $\geq$ 1              & 0 von 1 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch10]{} & > 1 & 0 von 1 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch11]{} & 1 & 0 von 1 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch12]{} \\ \hline
+	Sedimentationsplatten           & < 1 & $\geq$ 1              & 0 von 1 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch13]{} & > 1 & 0 von 1 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch14]{} & 1 & 0 von 1 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch15]{}       \\ \hline
+	Kontaktplatten                  & < 1 & $\geq$ 1              & 0 von 4 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch16]{} & > 1 & 0 von 4 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch17]{} & 1 & 0 von 4 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch18]{} \\ \hline
 \end{tabularx}
 
 \newpage
@@ -75,26 +50,10 @@ In den Tabellen sind die Durchschnittswerte gem"ass dem EU-GMP-Leitfaden dargest
 
 \begin{tabularx}{\textwidth}{|l|c|c|X|c|c|X|c|c|X|c|}
 	\hline
-	Prüfung & 
-	\rotatebox[origin=c]{90}{Befund} & \rotatebox[origin=c]{90}{Warngrenze (WG)} &
-	MP mit WG Verletzung &
-	\rotatebox[origin=c]{90}{Eingehalten} & \rotatebox[origin=c]{90}{Aktionsgrenze (AG)} &
-	MP mit AG Verletzung &
-	\rotatebox[origin=c]{90}{Eingehalten} & \rotatebox[origin=c]{90}{Grenzwert (GW)}	&
-	MP mit GW Verletzung & \rotatebox[origin=c]{90}{Eingehalten}\\
-		\hline
-	Luftprobe & 
-	< 1  & $\geq$ 1 & 0 von 1 & \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch19]{}& > 1  & 0 von 1 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch20]{}&
-	1 & 0 von 1 &  \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch21]{} \\
-	\hline
-	Sedimentationsplatten & 
-	< 1  & $\geq$ 1 & 0 von 1 & \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch22]{}& > 1  & 0 von 1 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch23]{}&
-	1 & 0 von 1 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch24]{} \\
-	\hline
-	Kontaktplatten & 
-	< 1  & $\geq$ 1 & 0 von 3 & \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch25]{}& > 1  & 0 von 3 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch26]{}&
-	1 & 0 von 3 &  \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch27]{} \\
-	\hline
+	Prüfung               & \rotatebox[origin=c]{90}{Befund} & \rotatebox[origin=c]{90}{Warngrenze (WG)} & MP mit WG Verletzung & \rotatebox[origin=c]{90}{Eingehalten}                         & \rotatebox[origin=c]{90}{Aktionsgrenze (AG)} & MP mit AG Verletzung & \rotatebox[origin=c]{90}{Eingehalten}                   & \rotatebox[origin=c]{90}{Grenzwert (GW)} & MP mit GW Verletzung & \rotatebox[origin=c]{90}{Eingehalten}                         \\ \hline
+	Luftprobe             & < 1                              & $\geq$ 1                                  & 0 von 1              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch19]{} & > 1                                          & 0 von 1              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch20]{} & 1                                        & 0 von 1              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch21]{} \\ \hline
+	Sedimentationsplatten & < 1                              & $\geq$ 1                                  & 0 von 1              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch22]{} & > 1                                          & 0 von 1              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch23]{} & 1                                        & 0 von 1              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch24]{}       \\ \hline
+	Kontaktplatten        & < 1                              & $\geq$ 1                                  & 0 von 3              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch25]{} & > 1                                          & 0 von 3              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch26]{} & 1                                        & 0 von 3              & \CheckBox[width=0.6em,height=0.6em,checked,name=ch27]{} \\ \hline
 \end{tabularx}
 \vspace{1ex}
 
@@ -108,16 +67,16 @@ In den Tabellen sind die Durchschnittswerte gem"ass dem EU-GMP-Leitfaden dargest
 	%\multicolumn{2}{|l|}{Q-TEC AG}&\multicolumn{2}{|l|}{Kunde}\\
 	\hline
 	Luftprobe & 
-	< 1  & $\geq$ 2 & 0 von 2 & \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch28]{}& > 1  & 0 von 2 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch29]{}&
-	1 & 0 von 2 &  \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch30]{} \\
+	< 1  & $\geq$ 2 & 0 von 2 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch28]{}& > 1  & 0 von 2 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch29]{}&
+	1 & 0 von 2 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch30]{} \\
 	\hline
 	Sedimentationsplatten & 
-	< 1  & $\geq$ 1 & 0 von 2 & \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch31]{}& > 1  & 0 von 2 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch32]{}&
+	< 1  & $\geq$ 1 & 0 von 2 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch31]{}& > 1  & 0 von 2 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch32]{}&
 	1 & 0 von 2 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch33]{} \\
 	\hline
 	Kontaktplatten & 
-	< 1  & $\geq$ 1 & 0 von 6 & \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch34]{}& > 1  & 0 von 6 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch35]{}&
-	1 & 0 von 6 &  \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch36]{} \\
+	< 1  & $\geq$ 1 & 0 von 6 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch34]{}& > 1  & 0 von 6 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch35]{}&
+	1 & 0 von 6 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch36]{} \\
 	\hline
 \end{tabularx}
 
@@ -130,20 +89,21 @@ In den Tabellen sind die Durchschnittswerte gem"ass dem EU-GMP-Leitfaden dargest
 	%\multicolumn{2}{|l|}{Q-TEC AG}&\multicolumn{2}{|l|}{Kunde}\\
 	\hline
 	Luftprobe & 
-	< 1  & $\geq$ 1 & 0 von 8 & \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch37]{}& > 1  & 0 von 8 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch38]{}&
-	1 & 0 von 8 &  \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch39]{} \\
+	< 1  & $\geq$ 1 & 0 von 8 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch37]{}& > 1  & 0 von 8 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch38]{}&
+	1 & 0 von 8 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch39]{} \\
 	\hline
 	Sedimentationsplatten & 
-	< 1  & $\geq$ 1 & 0 von 4 & \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch40]{}& > 1  & 0 von 4 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch41]{}&
+	< 1  & $\geq$ 1 & 0 von 4 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch40]{}& > 1  & 0 von 4 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch41]{}&
 	1 & 0 von 4 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch42]{} \\
 	\hline
 	Kontaktplatten & 
-	< 1  & $\geq$ 1 & 0 von 20 & \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch43]{}& > 1  & 0 von 20 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch44]{}&
-	1 & 0 von 20 &  \CheckBox[print,width=0.6em,height=0.6em,checked,name=ch45]{} \\
+	< 1  & $\geq$ 1 & 0 von 20 & \CheckBox[width=0.6em,height=0.6em,checked,name=ch43]{}& > 1  & 0 von 20 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch44]{}&
+	1 & 0 von 20 &  \CheckBox[width=0.6em,height=0.6em,checked,name=ch45]{} \\
 	\hline
 \end{tabularx}
 \vspace{70pt}% soll dymamisch werden
 
+\begin{table} [b]
 
 \begin{tabularx}{\textwidth}{p{4.5cm}XXp{4cm}}
 
@@ -151,7 +111,9 @@ In den Tabellen sind die Durchschnittswerte gem"ass dem EU-GMP-Leitfaden dargest
 	\multicolumn{2}{l}{Q-TEC AG}&	\multicolumn{2}{l}{\small{\kundeline}}\\
 
 
-	\small{Messungen geführt:} &\underline{\hspace{3cm}} & \multirow{3}{8cm}{\small{Geprüft und Genehmigt:}}& \\
+	\small{Messungen geführt:} & \underline{\hspace{3cm}}
+		
+	 & \multirow{3}{8cm}{\small{Geprüft und Genehmigt:}}& \\
 
 
     \small{Erstellt und Geprüft:} &\underline{\hspace{3cm}} & &\qquad \underline{\hspace{3cm}}\\
@@ -159,83 +121,85 @@ In den Tabellen sind die Durchschnittswerte gem"ass dem EU-GMP-Leitfaden dargest
 	
 	
 \end{tabularx}
+\end{table}
 
-\chapter{Messmittel und Proben} \label{cha:messmittelPoben}
-\section{Proben} \label{sec:Proben}§
+\end{Form}
+
+\chapter{Messmittel und Proben} \label{cha:mittelPoben}
+\section{Proben} \label{sec:Proben}
 
 \begin{itemize}
-
-	\item [1] \proben \quad {\ChoiceMenu[height=10pt,width=0.5cm, bordercolor={CorpColor},print,combo,default= 55mm]{}{55mm, 90mm}} \\[1.5ex]
-	   \TextField[width=3cm, height=14pt,print, bordercolor={CorpColor}]{LOT:} \quad \TextField[width=2cm, height=14pt,print, bordercolor={CorpColor}]{Ablaufdatum: }\\[1.5ex]
+\begin{Form}
+	\item [1] \proben \quad {\ChoiceMenu[height=10pt,width=0.5cm, bordercolor={CorpColor},combo,default= 55mm]{Plate Count Agar $\diameter$}{55mm, 90mm}} \\[1.5ex]
+	   \TextField[width=3cm, height=14pt, bordercolor={CorpColor}]{LOT:} \quad \TextField[width=2cm, height=14pt, bordercolor={CorpColor}]{Ablaufdatum: }\\[1.5ex]
 	   \probeiso \qquad \beb\\[1.5ex]
-	\item [2] \proben \quad {\ChoiceMenu[height=10pt,width=0.5cm, bordercolor={CorpColor},print,combo,default= 55mm]{}{55mm, 90mm}} \\[1.5ex] 
-	   \TextField[width=3cm, height=14pt,print, bordercolor={CorpColor}]{LOT:} \quad \TextField[width=2cm, height=14pt,print, bordercolor={CorpColor}]{Ablaufdatum: }\\[1.5ex]
-     \probeiso \qquad \beb\\
-
+	\item [2] proben \quad {\ChoiceMenu[height=10pt,width=0.5cm, bordercolor={CorpColor},combo,default= 55mm]{Plate Count Agar $\diameter$}{55mm, 90mm}} \\[1.5ex]
+	\TextField[width=3cm, height=14pt, bordercolor={CorpColor}]{LOT:} \quad \TextField[width=2cm, height=14pt, bordercolor={CorpColor}]{Ablaufdatum: }\\[1.5ex]
+	\probeiso \qquad \beb\\
+\end{Form}
 \end{itemize}
 
 \section{Messmittel} \label{sec:Messmittel}
 \begin{itemize}
+	\begin{Form}
 	
-	\item [1] \TextField[width=2cm, height=14pt,print, bordercolor={CorpColor}]{Microbial Air Sampler, Type:} \quad
-	          \TextField[width=3cm, height=14pt,print, bordercolor={CorpColor}]{Herrsteller: }\\[1.5ex]
-	          \TextField[width=3cm, height=14pt,print, bordercolor={CorpColor}]{Serien Nr.:}\\[1.5ex]
-	          \TextField[width=3cm, height=14pt,print, bordercolor={CorpColor}]{Kalibrierzertifikat Nr.:} \\[1.5ex]
-	          \TextField[width=2cm, height=14pt,print, bordercolor={CorpColor}]{Kalibrierintervall.: } \quad \TextField[width=2cm, height=14pt,print, bordercolor={CorpColor}]{Kalibrierzertifikat gütlig bis: }\\
-	
+	\item [1] \TextField[width=2cm, height=14pt, bordercolor={CorpColor}]{Microbial Air Sampler, Type:} \quad
+	          \TextField[width=3cm, height=14pt, bordercolor={CorpColor}]{Herrsteller: }\\[1.5ex]
+	          \TextField[width=3cm, height=14pt, bordercolor={CorpColor}]{Serien Nr.:}\\[1.5ex]
+	          \TextField[width=3cm, height=14pt, bordercolor={CorpColor}]{Kalibrierzertifikat Nr.:} \\[1.5ex]
+	          \TextField[width=2cm, height=14pt, bordercolor={CorpColor}]{Kalibrierintervall.: } \quad \TextField[width=2cm, height=14pt, bordercolor={CorpColor}]{Kalibrierzertifikat gütlig bis: }\\
+	        \end{Form}
 \end{itemize} 
 %caption{Messmittel}
 \chapter{Pr"ufung} \label{cha:pruefung}
 \section{Laminar Feld 1, Klasse: A.}\label{sec:LF1}
+\begin{Form}
 
 \kundeline \quad  \objekt \quad  \abteilung \quad  \betriebszustand \\[1.5ex]
-{\ChoiceMenu[height=12pt,width=0.5cm, bordercolor={CorpColor},print,combo,default= 1]{Ahzahl Personsn im Raum}{1,2,3,4,5,6,7}}~{\ChoiceMenu[height=12pt,width=0.5cm, bordercolor={CorpColor},print,combo,default= 1]{davon}{1,2,3,4,5,6,7}}~Messtechniker.\\[1.5ex]
-
-Luftproben\\
-%\begin{table}[]
-%\caption{Luftproben}
+{\ChoiceMenu[height=12pt,width=0.5cm, bordercolor={CorpColor},combo,default= 1]{Ahzahl Personsn im Raum}{1,2,3,4,5,6,7}}~{\ChoiceMenu[height=12pt,width=0.5cm, bordercolor={CorpColor},combo,default= 1]{davon}{1,2,3,4,5,6,7}}~Messtechniker.\\[1.5ex]
+Hinweis: Alle Werte unterhalb von 0 (z. B. < 1, < 5) bedeuten, dass keine Keime nachweisbar sind.\\
 	\resizebox{\columnwidth}{!}{%
-	\begin{tabular}{@{}|c|c|cc|cc|@{}}
+	\begin{tabular}{|c|c|cc|cc|}
+		\multicolumn{6}{l}{Luftproben}\\
 		\hline
-		                                &                               &                     \multicolumn{2}{c|}{}                      &            \multicolumn{2}{c|}{davon}            \\ %\cmidrule(l){5-6} 
-		                                & \multirow{-2}{*}{Probenahme-} & \multicolumn{2}{c|}{\multirow{-2}{*}{aerob   mesophile Keime}} & \multicolumn{1}{c|}{Schimmelpilze} &   Sporen    \\ %\cmidrule(l){2-6} 
-		\multirow{-3}{*}{Probenahmeort} &            (Liter)            & \multicolumn{1}{c|}{(KBE/Platte)} &        (KBE/$m^3$)         &  \multicolumn{1}{c|}{(KBE/$m^3$)}  & (KBE/$m^3$) \\ %\midrule
+		                                &                               &                     \multicolumn{2}{c|}{}                      &            \multicolumn{2}{c|}{davon}            \\ \cline{5-6} 
+		                                & \multirow{-2}{*}{Probenahme-} & \multicolumn{2}{c|}{\multirow{-2}{*}{aerob   mesophile Keime}} & \multicolumn{1}{c|}{Schimmelpilze} &   Sporen    \\ \cline{2-6}  
+		\multirow{-3}{*}{Probenahmeort} &            Liter            & \multicolumn{1}{c|}{KBE/Platte} &        KBE/$m^3$       &  \multicolumn{1}{c|}{KBE/$m^3$}  & (KBE/$m^3$) \\ %\midrule
 \hline
-		             KL1.1              &             1000              & \multicolumn{1}{c|}{\textless 1}  &        \textless 1         &  \multicolumn{1}{c|}{\textless 1}  & \textless 1 \\ %\midrule
+		             KL 1.1              &             1000              & \multicolumn{1}{c|}{\textless 1}  &        \textless 1         &  \multicolumn{1}{c|}{\textless 1}  & \textless 1 \\ 
 \hline
-		             KL1.2              &             1000              & \multicolumn{1}{c|}{\textless 1}  &        \textless 1         &  \multicolumn{1}{c|}{\textless 1}  & \textless 1 \\ \hline
+		             KL 1.2              &             1000              &\textless 1  &        \textless 1         &  \multicolumn{1}{c|}{\textless 1}  & \textless 1 \\ 
+\hline
+		            \multicolumn{3}{|l|} {Mittelwert} & \textless 1 &\multicolumn{2}{c}{}\\
+		             \cline{1-4}
 	\end{tabular}%
 	}
 %\end{table
 
 \vspace{0.5cm}
 
-Sedimentationsproben\\[1.5ex]
 
 \resizebox{\columnwidth}{!}{%
-	\begin{tabular}{|l|ccc|}
-		\hline
-		& \multicolumn{1}{c|}{}            & \multicolumn{2}{c|}{davon}                     \\ \cline{3-4} 
-		\multirow{-2}{*}{Probenahmeort} & \multicolumn{1}{c|}{\multirow{-2}{*}{aerob mesophile Keime}} & \multicolumn{1}{c|}{Schimmelpilze} & Sporen      \\ \hline
-		& (KBE/4Stunden/Platte)            & \multicolumn{1}{c|}{(KBE/$m^3$)}    & (KBE/$m^3$)    \\ \hline
-		SE 1.1  & \multicolumn{1}{c|}{\textless 1}                             & \multicolumn{1}{c|}{\textless 1}   & \textless 1 \\ \hline
-		SE 1.2                   & \multicolumn{1}{c|}{\textless 1} & \multicolumn{1}{c|}{\textless 1} & \textless 1 \\ \hline
+	\begin{tabular}{|l|c|cc|}
+		\multicolumn{4}{l}{Sedimentationsproben}                                                                                                          \\ \hline
+		                                &                    \multicolumn{1}{c|}{}                     &            \multicolumn{2}{c|}{davon}            \\ \cline{3-4}
+		\multirow{-2}{*}{Probenahmeort} & \multicolumn{1}{c|}{\multirow{-2}{*}{aerob mesophile Keime}} & \multicolumn{1}{c|}{Schimmelpilze} &   Sporen    \\ \cline
+		{2-4}                           &                     KBE/4Stunden/Platte                      &   \multicolumn{1}{c|}{KBE/$m^3$}   &  KBE/$m^3$  \\ \hline
+		SE 1.1                          &               \multicolumn{1}{c|}{\textless 1}               &  \multicolumn{1}{c|}{\textless 1}  & \textless 1 \\ \hline
+		SE 1.2                          &               \multicolumn{1}{c|}{\textless 1}               &  \multicolumn{1}{c|}{\textless 1}  & \textless 1 \\ \hline
+		Mittelwert                      &                         \textless 1                          &               \multicolumn{2}{c}{}               \\ \cline{1-2}
 	\end{tabular}%
 }
 
-Kontaktplatten\\[1.5ex]
 
 \resizebox{\columnwidth}{!}{%
-	\begin{tabular}{|l|l|c|c|}
+	\begin{tabular}{|l|c|c|c|}
+		\multicolumn{4}{l}{Kontaktplatten}\\
 		\hline
-		&
-		&
-		\begin{tabular}[c]{@{}c@{}}Gesamtkeimzahl   \\      aerob mesophile Keime\end{tabular} &
-		davon   Schimmelpilze \\ \cline{3-4} 
-		\multirow{-2}{*}{Probenahmeort} &
-		\multirow{-2}{*}{Definition   des Probenahmeortes} &
-		(KBE/Platte) &
-		(KBE/Platte) \\ \hline
+		
+		\multirow{2}{*}{Probenahmeort}& \multirow{2}{*}{ Definition des Probenahmeortes} &  Gesamtkeimzahl aerob mesophile Keime &  davon   Schimmelpilze               \\ \cline{3-4} 
+		 
+		& & KBE/Platte           & KBE/Platte   \\ \hline
 		AK 1.1 & Wand (1.2 m)                     & \textless 1 & \textless 1 \\ \hline
 		AK 1.2                         & linker Arbeitsbereich (0.9   m)  & \textless 1 & \textless 1 \\ \hline
 		AK 1.3                         & zentraler Bereich (0.9 m)        & \textless 1 & \textless 1 \\ \hline
@@ -244,58 +208,64 @@ Kontaktplatten\\[1.5ex]
 		AK 1.6                         & zentraler Bereich (0.9 m)        & \textless 1 & \textless 1 \\ \hline
 		AK 1.7                         & rechter Arbeitsbereich   (0.9 m) & \textless 1 & \textless 1 \\ \hline
 		AK 1.8                         & Wand (1.2 m)                     & \textless 1 & \textless 1 \\ \hline
+		\multicolumn{2}{|c|}{Mittelwert} & \textless 1 & \multicolumn{1}{c}{} \\
+		\cline{1-3}
 	\end{tabular}%
 }
+
+
+
 \section{Laminar Feld 2, Klasse: A.}\label{sec:LF2}
 
-\kundeline \quad  \objekt \quad  \abteilung \quad  \betriebszustand \\[1.5ex]
-{\ChoiceMenu[height=12pt,width=0.5cm, bordercolor={CorpColor},print,combo,default= 1]{Ahzahl Personsn im Raum}{1,2,3,4,5,6,7}}~{\ChoiceMenu[height=12pt,width=0.5cm, bordercolor={CorpColor},print,combo,default= 1]{davon}{1,2,3,4,5,6,7}}~Messtechniker.\\[1.5ex]
 
-Luftproben\\
+\kundeline \quad  \objekt \quad  \abteilung \quad  \betriebszustand \\[1.5ex]
+{\ChoiceMenu[height=12pt,width=0.5cm, bordercolor={CorpColor},combo,default= 1]{Ahzahl Personsn im Raum}{1,2,3,4,5,6,7}}~{\ChoiceMenu[height=12pt,width=0.5cm, bordercolor={CorpColor},combo,default= 1]{davon}{1,2,3,4,5,6,7}}~Messtechniker.\\[1.5ex]
+
+
 %\begin{table}[]
 %\caption{Luftproben}
 \resizebox{\columnwidth}{!}{%
-	\begin{tabular}{@{}|c|c|cc|cc|@{}}
+	\begin{tabular}{|c|c|cc|cc|}
+		\multicolumn{6}{l}{Luftproben}\\
 		\hline
-		&                               &                     \multicolumn{2}{c|}{}                      &            \multicolumn{2}{c|}{davon}            \\ %\cmidrule(l){5-6} 
-		& \multirow{-2}{*}{Probenahme-} & \multicolumn{2}{c|}{\multirow{-2}{*}{aerob   mesophile Keime}} & \multicolumn{1}{c|}{Schimmelpilze} &   Sporen    \\ %\cmidrule(l){2-6} 
-		\multirow{-3}{*}{Probenahmeort} &            (Liter)            & \multicolumn{1}{c|}{(KBE/Platte)} &        (KBE/$m^3$)         &  \multicolumn{1}{c|}{(KBE/$m^3$)}  & (KBE/$m^3$) \\ %\midrule
+		&                               &                     \multicolumn{2}{c|}{}                      &            \multicolumn{2}{c|}{davon}            \\ \cline{5-6} 
+		& \multirow{-2}{*}{Probenahme-} & \multicolumn{2}{c|}{\multirow{-2}{*}{aerob   mesophile Keime}} & \multicolumn{1}{c|}{Schimmelpilze} &   Sporen    \\ \cline{2-6}  
+		\multirow{-3}{*}{Probenahmeort} &            Liter            & \multicolumn{1}{c|}{KBE/Platte} &        KBE/$m^3$       &  \multicolumn{1}{c|}{KBE/$m^3$}  & (KBE/$m^3$) \\ %\midrule
 		\hline
-		KL1.1              &             1000              & \multicolumn{1}{c|}{\textless 1}  &        \textless 1         &  \multicolumn{1}{c|}{\textless 1}  & \textless 1 \\ %\midrule
+		KL 1.1              &             1000              & \multicolumn{1}{c|}{\textless 1}  &        \textless 1         &  \multicolumn{1}{c|}{\textless 1}  & \textless 1 \\ 
 		\hline
-		KL1.2              &             1000              & \multicolumn{1}{c|}{\textless 1}  &        \textless 1         &  \multicolumn{1}{c|}{\textless 1}  & \textless 1 \\ \hline
+		KL 1.2              &             1000              &\textless 1  &        \textless 1         &  \multicolumn{1}{c|}{\textless 1}  & \textless 1 \\ 
+		\hline
+		\multicolumn{3}{|l|} {Mittelwert} & \textless 1 &\multicolumn{2}{c}{}\\
+		\cline{1-4}
 	\end{tabular}%
 }
 %\end{table
 	
 	\vspace{0.5cm}
 	
-	Sedimentationsproben\\[1.5ex]
 	
 	\resizebox{\columnwidth}{!}{%
-		\begin{tabular}{|l|ccc|}
-			\hline
-			& \multicolumn{1}{c|}{}            & \multicolumn{2}{c|}{davon}                     \\ \cline{3-4} 
-			\multirow{-2}{*}{Probenahmeort} & \multicolumn{1}{c|}{\multirow{-2}{*}{aerob mesophile Keime}} & \multicolumn{1}{c|}{Schimmelpilze} & Sporen      \\ \hline
-			& (KBE/4Stunden/Platte)            & \multicolumn{1}{c|}{(KBE/$m^3$)}    & (KBE/$m^3$)    \\ \hline
-			SE 1.1  & \multicolumn{1}{c|}{\textless 1}                             & \multicolumn{1}{c|}{\textless 1}   & \textless 1 \\ \hline
-			SE 1.2                   & \multicolumn{1}{c|}{\textless 1} & \multicolumn{1}{c|}{\textless 1} & \textless 1 \\ \hline
+		\begin{tabular}{|l|c|cc|}
+			\multicolumn{4}{l}{Sedimentationsproben}                                                                                                          \\ \hline
+			&                    \multicolumn{1}{c|}{}                     &            \multicolumn{2}{c|}{davon}            \\ \cline{3-4}
+			\multirow{-2}{*}{Probenahmeort} & \multicolumn{1}{c|}{\multirow{-2}{*}{aerob mesophile Keime}} & \multicolumn{1}{c|}{Schimmelpilze} &   Sporen    \\ \cline
+			{2-4}                           &                     KBE/4Stunden/Platte                      &   \multicolumn{1}{c|}{KBE/$m^3$}   &  KBE/$m^3$  \\ \hline
+			SE 1.1                          &               \multicolumn{1}{c|}{\textless 1}               &  \multicolumn{1}{c|}{\textless 1}  & \textless 1 \\ \hline
+			SE 1.2                          &               \multicolumn{1}{c|}{\textless 1}               &  \multicolumn{1}{c|}{\textless 1}  & \textless 1 \\ \hline
+			Mittelwert                      &                         \textless 1                          &               \multicolumn{2}{c}{}               \\ \cline{1-2}
 		\end{tabular}%
 	}
 	
-	Kontaktplatten\\[1.5ex]
 	
 	\resizebox{\columnwidth}{!}{%
-		\begin{tabular}{|l|l|c|c|}
+		\begin{tabular}{|l|c|c|c|}
+			\multicolumn{4}{l}{Kontaktplatten}\\
 			\hline
-			&
-			&
-			\begin{tabular}[c]{@{}c@{}}Gesamtkeimzahl   \\      aerob mesophile Keime\end{tabular} &
-			davon   Schimmelpilze \\ \cline{3-4} 
-			\multirow{-2}{*}{Probenahmeort} &
-			\multirow{-2}{*}{Definition   des Probenahmeortes} &
-			(KBE/Platte) &
-			(KBE/Platte) \\ \hline
+			
+			\multirow{2}{*}{Probenahmeort}& \multirow{2}{*}{ Definition des Probenahmeortes} &  Gesamtkeimzahl aerob mesophile Keime &  davon   Schimmelpilze               \\ \cline{3-4} 
+			
+			& & KBE/Platte           & KBE/Platte   \\ \hline
 			AK 1.1 & Wand (1.2 m)                     & \textless 1 & \textless 1 \\ \hline
 			AK 1.2                         & linker Arbeitsbereich (0.9   m)  & \textless 1 & \textless 1 \\ \hline
 			AK 1.3                         & zentraler Bereich (0.9 m)        & \textless 1 & \textless 1 \\ \hline
@@ -304,8 +274,11 @@ Luftproben\\
 			AK 1.6                         & zentraler Bereich (0.9 m)        & \textless 1 & \textless 1 \\ \hline
 			AK 1.7                         & rechter Arbeitsbereich   (0.9 m) & \textless 1 & \textless 1 \\ \hline
 			AK 1.8                         & Wand (1.2 m)                     & \textless 1 & \textless 1 \\ \hline
+			\multicolumn{2}{|c|}{Mittelwert} & \textless 1 & \multicolumn{1}{c}{} \\
+			\cline{1-3}
 		\end{tabular}%
 	}
+\end{Form}
 
 
 %\begin{description}
@@ -327,5 +300,5 @@ Luftproben\\
 
 %\section{Wenige Informationen, wenige Quellen \dots} \label{sec:Quellenlage}
 
-Grunds\"atzlich war es schwierig geeignete Quellen zu den Themen rund um die Technologien zu finden, da sich -- wie bereits erw\"ahnt -- beide Frameworks noch in der Entwicklung befinden. Aus diesem Grund wurde \"uberwiegend aus Online-Quellen zitiert.
+
 
